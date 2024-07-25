@@ -4,6 +4,7 @@ apply plugin: 'kotlin-android'
 apply plugin: 'de.undercouch.download'
 
 def getVersionCode = { -> return 2215 }
+def getVersionCode2 = { -> return getVersionCode() + 10000 }
 def getRevision = { -> return "b" }
 def getReleaseName = { -> return "Acantholipan" }
 // https://en.wikipedia.org/wiki/List_of_dinosaur_genera
@@ -23,13 +24,13 @@ android {
 
     // https://apilevels.com/
     defaultConfig {
-        applicationId "com.mikoz.fairemail"
+        applicationId "eu.faircode.email"
         compileSdk 34
         minSdkVersion 21
         targetSdkVersion 34
         //targetSdkPreview "VanillaIceCream"
-        versionCode getVersionCode()
-        versionName "1." + getVersionCode()
+        versionCode getVersionCode2()
+        versionName "1." + getVersionCode2()
 
         manifestPlaceholders = [namespace: applicationId.replace('.debug', '')]
 
@@ -62,7 +63,7 @@ android {
     }
 
     base {
-        archivesName = "FairEmail-v1." + getVersionCode() + getRevision()
+        archivesName = "FairEmail-v1." + getVersionCode2() + getRevision()
     }
 
     sourceSets {
@@ -203,7 +204,7 @@ android {
         github {
             dimension "all"
             manifestPlaceholders.largeHeap = false
-            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("github" + getVersionCode() + getRevision()).getBytes()).toString();
+            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("github" + getVersionCode2() + getRevision()).getBytes()).toString();
             buildConfigField "boolean", "TEST_RELEASE", "false"
             buildConfigField "boolean", "BETA_RELEASE", "true"
             buildConfigField "boolean", "PLAY_STORE_RELEASE", "false"
@@ -229,7 +230,7 @@ android {
         large {
             dimension "all"
             manifestPlaceholders.largeHeap = true
-            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("large" + getVersionCode() + getRevision()).getBytes()).toString();
+            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("large" + getVersionCode2() + getRevision()).getBytes()).toString();
             buildConfigField "boolean", "TEST_RELEASE", "false"
             buildConfigField "boolean", "BETA_RELEASE", "true"
             buildConfigField "boolean", "PLAY_STORE_RELEASE", "false"
@@ -255,7 +256,7 @@ android {
         fdroid {
             dimension "all"
             manifestPlaceholders.largeHeap = false
-            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("fdroid" + getVersionCode() + getRevision()).getBytes()).toString();
+            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("fdroid" + getVersionCode2() + getRevision()).getBytes()).toString();
             externalNativeBuild {
                 cmake {
                     arguments "-DCMAKE_SHARED_LINKER_FLAGS=-Wl,--build-id=none"
@@ -291,7 +292,7 @@ android {
             dimension "all"
             //minSdkVersion 23
             manifestPlaceholders.largeHeap = false
-            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("play" + getVersionCode() + getRevision()).getBytes()).toString();
+            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("play" + getVersionCode2() + getRevision()).getBytes()).toString();
             buildConfigField "boolean", "TEST_RELEASE", "false"
             buildConfigField "boolean", "BETA_RELEASE", "true"
             buildConfigField "boolean", "PLAY_STORE_RELEASE", "true"
@@ -319,7 +320,7 @@ android {
             dimension "all"
             minSdkVersion 23
             manifestPlaceholders.largeHeap = false
-            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("amazon" + getVersionCode() + getRevision()).getBytes()).toString();
+            manifestPlaceholders.build_uuid = UUID.nameUUIDFromBytes(("amazon" + getVersionCode2() + getRevision()).getBytes()).toString();
             buildConfigField "boolean", "TEST_RELEASE", "false"
             buildConfigField "boolean", "BETA_RELEASE", "true"
             buildConfigField "boolean", "PLAY_STORE_RELEASE", "false"
@@ -405,7 +406,7 @@ tasks.register('copyChangelog', Copy) {
     from "${rootDir}"
     into "../metadata/en-US/changelogs"
     include "CHANGELOG.md"
-    rename "CHANGELOG.md", getVersionCode() + ".txt"
+    rename "CHANGELOG.md", getVersionCode2() + ".txt"
     filter { String line ->
         line
                 .replaceAll(".*Google Translate.*", "--------------------")
@@ -470,21 +471,21 @@ tasks.register('downloadBrave') {
 tasks.register('extractSignature', Exec) {
     workingDir "${rootDir}"
     // sudo apt install apksigcopier
-    commandLine 'sh', '-c', 'mkdir -p metadata/com.mikoz.fairemail/signatures/' + getVersionCode() + ' &&' +
-            'apksigcopier extract --v1-only=auto app/build/outputs/apk/fdroid/release/FairEmail-v1.' + getVersionCode() + getRevision() + '-fdroid-release.apk metadata/com.mikoz.fairemail/signatures/' + getVersionCode()
+    commandLine 'sh', '-c', 'mkdir -p metadata/eu.faircode.email/signatures/' + getVersionCode2() + ' &&' +
+            'apksigcopier extract --v1-only=auto app/build/outputs/apk/fdroid/release/FairEmail-v1.' + getVersionCode2() + getRevision() + '-fdroid-release.apk metadata/com.mikoz.fairemail/signatures/' + getVersionCode2()
 }
 
 tasks.register('upload') {
     // ./gradlew upload -Ptarget=play-preview
     doLast {
-        println "\nhttps://bitbucket.org/M66B/fairemail-test/downloads/FairEmail-v1." + getVersionCode() + getRevision() + "-" + target + "-release.apk\n"
+        println "\nhttps://bitbucket.org/M66B/fairemail-test/downloads/FairEmail-v1." + getVersionCode2() + getRevision() + "-" + target + "-release.apk\n"
         exec {
             workingDir "${rootDir}/app/build"
             commandLine 'curl',
                     '-o', '/dev/null',
                     '-X', 'POST', "https://M66B:" + localProperties.getProperty("bb.pwd", "") + "@api.bitbucket.org/2.0/repositories/M66B/fairemail-test/downloads",
-                    '--form', "files=@${rootDir}/app/build/outputs/apk/" + target.split('-')[0] + "/release/FairEmail-v1." + getVersionCode() + getRevision() + "-" + target.split('-')[0] + "-release.apk;" +
-                    "filename=FairEmail-v1." + getVersionCode() + getRevision() + "-" + target + "-release.apk"
+                    '--form', "files=@${rootDir}/app/build/outputs/apk/" + target.split('-')[0] + "/release/FairEmail-v1." + getVersionCode2() + getRevision() + "-" + target.split('-')[0] + "-release.apk;" +
+                    "filename=FairEmail-v1." + getVersionCode2() + getRevision() + "-" + target + "-release.apk"
         }
     }
 }
