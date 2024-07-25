@@ -95,4 +95,4 @@ jobs:
         gh release create ${{github.run_number}} --title "Release ${{github.run_number}}" --notes "Please agree to the licenses of the upstream projects and deps before using the app."
         find . -name "*.apk" -exec gh release upload ${{github.run_number}} {} --clobber \;
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+        GH_TOKEN: ${{ secrets.GH_PAT }}
