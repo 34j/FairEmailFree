@@ -55,11 +55,11 @@ jobs:
     #     gpg -d --passphrase "${PASSWORD}" --batch keystore.properties.asc > keystore.properties
     #     echo "${{ secrets.LOCAL_PROPERTIES }}" > local.properties.asc
     #     gpg -d --passphrase "${PASSWORD}" --batch local.properties.asc > local.properties
-    - name: Replace code
-      # Replace static boolean isPro(Context context) {.+?} -> static boolean isPro(Context context) { return true; }
-      # for all files named ActivityBilling.java
-      run: |
-        find . -name ActivityBilling.java -exec sed -i 's/static boolean isPro(Context context) {/static boolean isPro(Context context) { return true; /g' {} \;
+    # - name: Replace code
+    #   # Replace static boolean isPro(Context context) {.+?} -> static boolean isPro(Context context) { return true; }
+    #   # for all files named ActivityBilling.java
+    #   run: |
+    #     find . -name ActivityBilling.java -exec sed -i 's/static boolean isPro(Context context) {/static boolean isPro(Context context) { return true; /g' {} \;
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     # - name: Check with Lint
