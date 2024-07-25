@@ -1,8 +1,8 @@
 *.iml
 tools/config.sh
-# local.properties
+local.properties
 # keystore.properties
-# crowdin.properties
+crowdin.properties
 .gradle
 .idea/caches
 .idea/dictionaries
