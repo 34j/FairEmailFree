@@ -3223,6 +3223,8 @@ public class Helper {
     }
 
     static boolean hasValidFingerprint(Context context) {
+        return true;
+        /*
         if (hasValidFingerprint == null) {
             hasValidFingerprint = false;
 
@@ -3239,6 +3241,7 @@ public class Helper {
                 }
         }
         return hasValidFingerprint;
+        */
     }
 
     static boolean isSignedByFDroid(Context context) {
