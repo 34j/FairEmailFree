@@ -92,5 +92,7 @@ jobs:
         path: app/build/outputs/apk/**/release/*.apk
     - name: Create release
       run: |
-        gh release create ${{github.run_number}} --title "Release ${{github.run_number}}"
+        gh release create ${{github.run_number}} --title "Release ${{github.run_number}}" --notes "Please agree to the licenses of the upstream projects and deps before using the app."
         find . -name "*.apk" -exec gh release upload ${{github.run_number}} {} --clobber \;
+      env:
+        GITHUB_TOKEN: ${{ secrets.GH_PAT }}
