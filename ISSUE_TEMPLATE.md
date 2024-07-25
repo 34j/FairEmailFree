@@ -5,12 +5,12 @@
 # Feature request
 
 * Did you check if there wasn't a similar feature request?
-* Did you read [the FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md)?
+* Did you read [the FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md)?
 
 # Bug report
 
 * Did you check if there wasn't a similar bug report?
-* Are you using the [latest version](https://github.com/M66B/FairEmail/releases) of the app?
+* Are you using the [latest version](https://github.com/34j/FairEmailFree/releases) of the app?
 
 ## Expected behavior
 

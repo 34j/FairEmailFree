@@ -18,7 +18,7 @@ Nếu thiết lập nhanh không được, bạn sẽ cần thiết lập một 
 
 Để thêm một tài khoản, nhấn *Thiết lập thủ công và thêm tuỳ chọn*, nhấn *Tài khoản* và nhấn nút 'cộng' ở phía dưới và chọn IMAP (hoặc POP3). Chọn một nhà cung cấp từ danh sách, nhập tên người dùng (phần lớn là địa chỉ email của bạn) và nhập mật khẩu của bạn. Nhấn *Kiểm tra* để cho FairEmail kết nối đến máy chủ email và lấy danh sách các thư mục hệ thống. Sau khi xem xét sự lựa chọn thư mục hệ thống, bạn có thể thêm tài khoản bằng cách nhấn *Lưu*.
 
-Nếu nhà cung cấp của bạn không ở trong danh sách các nhà cung cấp, có hàng nghìn nhà cung cấp, chọn *Tùy chỉnh*. Nhập tên miền, ví dụ *gmail.com* và nhấn *Lấy cài đặt*. Nếu nhà cung cấp của bạn hỗ trợ [tự động khám phá](https://tools.ietf.org/html/rfc6186), FairEmail sẽ điền vào tên máy chủ và số cổng, nếu không thì hãy kiểm tra hướng dẫn thiết lập của nhà cung cấp của bạn để tìm tên máy chủ IMAP đúng, số cổng và giao thức mã hoá (SSL/TLS hoặc STARTTLS). Để biết thêm về điều này, hãy xem [chỗ này](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Nếu nhà cung cấp của bạn không ở trong danh sách các nhà cung cấp, có hàng nghìn nhà cung cấp, chọn *Tùy chỉnh*. Nhập tên miền, ví dụ *gmail.com* và nhấn *Lấy cài đặt*. Nếu nhà cung cấp của bạn hỗ trợ [tự động khám phá](https://tools.ietf.org/html/rfc6186), FairEmail sẽ điền vào tên máy chủ và số cổng, nếu không thì hãy kiểm tra hướng dẫn thiết lập của nhà cung cấp của bạn để tìm tên máy chủ IMAP đúng, số cổng và giao thức mã hoá (SSL/TLS hoặc STARTTLS). Để biết thêm về điều này, hãy xem [chỗ này](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Thiết lập danh tính - để gửi email
 
@@ -26,7 +26,7 @@ Tương tự, để thêm một danh tính, nhấn *Thiết lập thủ công v�
 
 Nếu tài khoản được thiết lập thủ công, có khả năng bạn cũng cần thiết lập danh tính thủ công. Nhập tên miền, ví dụ *gmail.com* và nhấn *Lấy cài đặt*. Nếu nhà cung cấp của bạn hỗ trợ [tự động khám phá](https://tools.ietf.org/html/rfc6186), FairEmail sẽ điền vào tên máy chủ và số cổng, nếu không thì hãy kiểm tra hướng dẫn thiết lập của nhà cung cấp của bạn để tìm tên máy chủ SMTP đúng, số cổng và giao thức mã hoá (SSL/TLS hoặc STARTTLS).
 
-Xem [câu hỏi thường gặp này](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) về việc sử dụng bí danh.
+Xem [câu hỏi thường gặp này](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) về việc sử dụng bí danh.
 
 ## Cấp quyền - để truy cập thông tin liên hệ
 
@@ -38,4 +38,4 @@ Trên các phiên bản Android gần đây, Android sẽ cho các ứng dụng 
 
 ## Câu hỏi hoặc vấn đề
 
-Nếu bạn có câu hỏi hoặc vấn đề, hãy [xem chỗ này](https://github.com/M66B/FairEmail/blob/master/FAQ.md) để tìm trợ giúp.
+Nếu bạn có câu hỏi hoặc vấn đề, hãy [xem chỗ này](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) để tìm trợ giúp.

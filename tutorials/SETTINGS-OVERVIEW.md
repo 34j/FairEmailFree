@@ -6,11 +6,11 @@ In this tutorial, some settings and options in FairEmail will be described witho
 Be reminded that all settings here are optional. FairEmail works without any modifications.
 You can simply add an account and start reading and writing your emails.
 
-**NOTE:** If you have any troubles, check [this extensive FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md).
+**NOTE:** If you have any troubles, check [this extensive FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md).
 You may also ask in [this XDA Forum thread](https://forum.xda-developers.com/t/app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/)
 or via [this contact form](https://contact.faircode.eu/?product=fairemailsupport). Bad reviews won't help you or the developer, so please try asking in person first.
 
-**NOTE:** A tutorial on the first configuration of the app and on how to add an account can be found in the [first configuration tutorial](https://github.com/M66B/FairEmail/blob/master/tutorials/FIRST-CONFIG.md)
+**NOTE:** A tutorial on the first configuration of the app and on how to add an account can be found in the [first configuration tutorial](https://github.com/34j/FairEmailFree/blob/master/tutorials/FIRST-CONFIG.md)
 
 ## Opening the settings
 
@@ -45,15 +45,15 @@ You will now find multiple categories:
 
 ## 1. Adding a new account
 
-If you want to add a new account, use the wizard in the Main screen. Follow [this first configuration guide](https://github.com/M66B/FairEmail/blob/master/tutorials/FIRST-CONFIG.md).
-You can also [add an account manually](https://github.com/M66B/FairEmail/blob/master/tutorials/MANUAL-CONFIG.md). That requires you to enter everything manually, so it's not recommended.
+If you want to add a new account, use the wizard in the Main screen. Follow [this first configuration guide](https://github.com/34j/FairEmailFree/blob/master/tutorials/FIRST-CONFIG.md).
+You can also [add an account manually](https://github.com/34j/FairEmailFree/blob/master/tutorials/MANUAL-CONFIG.md). That requires you to enter everything manually, so it's not recommended.
 
 ## 2. Receiving messages in the daytime only
 
 You might want to not receive any messages at late hours. It is very easy and straightforward to tell FairEmail to synchronize only during specified days and hours.
 You can also exclude some accounts from this scheduling such that they are always synchronized regardless of the day and time.
 
-More information on scheduling can be found in [FAQ #78 How do I use schedules?](https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq78).
+More information on scheduling can be found in [FAQ #78 How do I use schedules?](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq78).
 
 ### 2.1 Set synchronization day & time
 
@@ -109,7 +109,7 @@ Go to the "Connection" settings and you will find the following "General" option
 * Download while roaming
 * Roam like at home - Roaming within the EU won't be considered as roaming
 
-More information can be found in [FAQ #105 How does the roam-like-at-home option work?](https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq105).
+More information can be found in [FAQ #105 How does the roam-like-at-home option work?](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq105).
 
 ## 6. Changing the theme
 
@@ -123,7 +123,7 @@ You can switch themes like this:
 5. Select the theme of your choice and confirm
 
 **NOTE:** Dynamic themes are not possible on Android.
-See [FAQ #164 Can you add customizable themes?](https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq164) for further details.
+See [FAQ #164 Can you add customizable themes?](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq164) for further details.
 
 ## 7. Changing start screen
 
@@ -157,7 +157,7 @@ To do so, follow these steps:
 2. Press on the "PIN" or "Enable fingerprint" button
 3. Follow the instruction on your screen
 
-More information can be found in [FAQ #113 How does biometric authentication work?](https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq113).
+More information can be found in [FAQ #113 How does biometric authentication work?](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq113).
 
 ## 10. Enable error reporting
 
@@ -167,7 +167,7 @@ If you want to enable error reporting, do as follows:
 1. Go to the "Miscellaneous" settings
 2. Enable the option "Send error reports"
 
-More information can be found in [FAQ #104 What do I need to know about error reporting?](https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq104).
+More information can be found in [FAQ #104 What do I need to know about error reporting?](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq104).
 
 <br>
 

@@ -18,7 +18,7 @@ Si la configuració ràpida no funciona, haureu de configurar un compte i una id
 
 Per afegir un compte, toca *Configuració manual i més opcions*, toca*Comptes* i toca el botó "més" a la part inferior i selecciona IMAP (o POP3). Seleccioneu un proveïdor de la llista, introduïu el nom d’usuari, que és principalment la vostra adreça de correu electrònic i introduïu la vostra contrasenya. Premeu *Comproveu* per deixar que FairEmail es connecti al servidor de correu electrònic i obtingui una llista de carpetes del sistema. Després de revisar la selecció de la carpeta del sistema, podeu afegir el compte si premeu *Desa*.
 
-Si el teu proveïdor no està a la llista de proveïdors, hi ha milers de proveïdors, selecciona *Personalitzat*. Introduïu el nom de domini, per exemple *gmail.com* i toqueu *Obteniu la configuració*. Si el teu proveïdor suporta [detecció automàtica](https://tools.ietf.org/html/rfc6186), FairEmail omplirà el nom de l'amfitrió i el número de port, si no, comprova les instruccions de configuració del teu proveïdor per obtenir el nom de l'amfitrió IMAP adequat, el número de port i el protocol d'encriptació (SSL/TLS o STARTTLS). Per obtenir més informació sobre això, consulteu [aquí](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Si el teu proveïdor no està a la llista de proveïdors, hi ha milers de proveïdors, selecciona *Personalitzat*. Introduïu el nom de domini, per exemple *gmail.com* i toqueu *Obteniu la configuració*. Si el teu proveïdor suporta [detecció automàtica](https://tools.ietf.org/html/rfc6186), FairEmail omplirà el nom de l'amfitrió i el número de port, si no, comprova les instruccions de configuració del teu proveïdor per obtenir el nom de l'amfitrió IMAP adequat, el número de port i el protocol d'encriptació (SSL/TLS o STARTTLS). Per obtenir més informació sobre això, consulteu [aquí](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Configura una identitat - per enviar correu electrònic
 
@@ -26,7 +26,7 @@ De manera similar, per afegir una identitat, prem *Configuració manual i més o
 
 Si el compte s'ha configurat manualment, és probable que també configureu la identitat manualment. Introduïu el nom de domini, per exemple *gmail.com* i toqueu *Obteniu la configuració*. Si el teu proveïdor suporta [detecció automàtica](https://tools.ietf.org/html/rfc6186), FairEmail omplirà el nom de l'amfitrió i el número de port, si no, comprova les instruccions de configuració del teu proveïdor per obtenir el nom de l'amfitrió IMAP adequat, el número de port i el protocol d'encriptació (SSL/TLS o STARTTLS).
 
-Consulteu [aquestes Preguntes Freqüents](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) sobre com utilitzar àlies.
+Consulteu [aquestes Preguntes Freqüents](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) sobre com utilitzar àlies.
 
 ## Concedir permisos: per accedir a la informació de contacte
 
@@ -38,4 +38,4 @@ En les versions recents d'Android, Android posarà les aplicacions en suspensió
 
 ## Preguntes o problemes
 
-Si tens alguna pregunta o problema, si us plau [llegeix això](https://github.com/M66B/FairEmail/blob/master/FAQ.md) per ajudar-te.
+Si tens alguna pregunta o problema, si us plau [llegeix això](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) per ajudar-te.

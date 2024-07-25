@@ -18,7 +18,7 @@ Fungerer hurtigopsætningen ikke, så skal en konto og identitet opsættes manue
 
 For kontotilføjelse trykkes på *Manuel opsætning og flere muligheder*, *Konti*, 'plus'-knappen nederst, og valg af IMAP (eller POP3). Vælg en udbyder på listen, angiv brugernavnet, som for det meste er din e-mail, og angiv dit adgangskode. Tryk *Tjek* for at lade FairEmail forbinde til e-mailserveren og hente en liste over systemmapper. Efter gennemgang af systemmappeudvalget kan du tilføje kontoen ved at trykke på*Gem*.
 
-Er udbyderen (af hvilke der er tusindvis) ikke på udbyderlisten, så vælg *Tilpasset*. Angiv domænenavnet, f.eks. *gmail.com*, og tryk på *Hent indstillinger*. Understøtter udbyderen [auto-discovery](https://tools.ietf.org/html/rfc6186), auto-udfylder FairEmail værtsnavn og portnummer, ellers tjek udbyderens opsætningsvejledning vedr. korrekt IMAP-værtsnavn, portnummer og protokol (SSL/TLS eller STARTTLS). For mere om dette, se [hér](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Er udbyderen (af hvilke der er tusindvis) ikke på udbyderlisten, så vælg *Tilpasset*. Angiv domænenavnet, f.eks. *gmail.com*, og tryk på *Hent indstillinger*. Understøtter udbyderen [auto-discovery](https://tools.ietf.org/html/rfc6186), auto-udfylder FairEmail værtsnavn og portnummer, ellers tjek udbyderens opsætningsvejledning vedr. korrekt IMAP-værtsnavn, portnummer og protokol (SSL/TLS eller STARTTLS). For mere om dette, se [hér](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Opsæt identitet - for at sende e-mail
 
@@ -26,7 +26,7 @@ Tilsvarende for identitetstilføjelse, tryk på *Manuel opsætning og flere muli
 
 Blev kontoen opsat manuelt, skal du sandsynligvis også opsætte identiteten manuelt. Angiv domænenavnet, f.eks. *gmail.com*, og tryk på *Hent indstillinger*. Understøtter udbyderen [auto-discovery](https://tools.ietf.org/html/rfc6186), auto-udfylder FairEmail værtsnavn og portnummer, ellers tjek udbyderens opsætningsvejledning vedr. korrekt SMTP-værtsnavn, portnummer og krypteringsprotokol (SSL/TLS eller STARTTLS).
 
-Se [denne FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) vedr. brug af aliasser.
+Se [denne FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) vedr. brug af aliasser.
 
 ## Giv tilladelser - for at tilgå kontaktoplysninger
 
@@ -38,4 +38,4 @@ I nyere Android-versioner sættes apps i dvale for at reducere batteriforbruget,
 
 ## Spørgsmål eller problemer
 
-Har du et spørgsmål eller problem, så [kig venligst her](https://github.com/M66B/FairEmail/blob/master/FAQ.md) for hjælp.
+Har du et spørgsmål eller problem, så [kig venligst her](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) for hjælp.

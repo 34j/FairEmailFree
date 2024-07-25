@@ -18,7 +18,7 @@ FairEmail을 설정하는 것은 꽤 간단합니다. 이메일을 받으려면 
 
 계정을 추가하려면, *수동 설정 및 기타 옵션*을 누르고 *계정*을 누른다음 아래에 '플러스' 버튼을 눌러 IMAP (또는 POP3) 을 누르세요. 목록에서 제공자를 선택하고, 대부분 이메일 주소인 사용자 이름을 기재한 다음 비밀번호를 입력하세요. FairEmail 을 이메일 서버에 연결하고 시스템 폴더 목록을 가져오기 위해 *Check*를 누르세요. 시스템 폴더 선택을 검토한 후 *Save*을 눌러 계정을 추가할 수 있습니다. 
 
-제공자가 제공자 목록에 없는 경우, 수천 명의 공급자가 있습니다. *Custom*을 선택하세요. 도메인 이름, 예를 들어 *gmail.com*, 을 입력하고 *설정 가져오기*를 누르세요. 제공자가 [자동 검색](https://tools.ietf.org/html/rfc6186)을 지원하는 경우, FairEmail 이 호스트 이름과 포트 넘버를 작성합니다. 그렇지 않은 경우 올바른 IMAP 호스트 이름, 포트 번호 및 암호화 프로토콜 (SSL/ TLS 또는 STARTTLS)에 대한 제공자의 설정 지침을 확인하세요. 이에 대한 자세한 내용은 [여기를](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts) 참조하세요.
+제공자가 제공자 목록에 없는 경우, 수천 명의 공급자가 있습니다. *Custom*을 선택하세요. 도메인 이름, 예를 들어 *gmail.com*, 을 입력하고 *설정 가져오기*를 누르세요. 제공자가 [자동 검색](https://tools.ietf.org/html/rfc6186)을 지원하는 경우, FairEmail 이 호스트 이름과 포트 넘버를 작성합니다. 그렇지 않은 경우 올바른 IMAP 호스트 이름, 포트 번호 및 암호화 프로토콜 (SSL/ TLS 또는 STARTTLS)에 대한 제공자의 설정 지침을 확인하세요. 이에 대한 자세한 내용은 [여기를](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts) 참조하세요.
 
 ## ID 설정 - 이메일 발신
 
@@ -26,7 +26,7 @@ FairEmail을 설정하는 것은 꽤 간단합니다. 이메일을 받으려면 
 
 계정이 수동으로 설정된 경우, ID 도 수동으로 설정해야 합니다. 도메인 이름, 예를 들어 *gmail.com*, 을 입력하고 *설정 가져오기*를 누르세요. 제공자가 [자동 검색](https://tools.ietf.org/html/rfc6186)을 지원하는 경우, FairEmail 이 호스트 이름과 포트 번호를 작성합니다. 그렇지 않은 경우 올바른 SMTP 호스트 이름, 포트 번호 및 암호 프로토콜 (SSL/TLS 또는 STARTTLS)에 대한 제공자의 설정 지침를 확인하세요. 
 
-가명 사용에 대한 내용은 [이 FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9)를 참조하세요.
+가명 사용에 대한 내용은 [이 FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9)를 참조하세요.
 
 ## 권한 부여 - 연락처 정보에 액세스
 
@@ -38,4 +38,4 @@ FairEmail을 설정하는 것은 꽤 간단합니다. 이메일을 받으려면 
 
 ## 질문 또는 문제
 
-질문이나 문제가 있는 경우, [여기를 참조하여](https://github.com/M66B/FairEmail/blob/master/FAQ.md) 도움을 받으세요.
+질문이나 문제가 있는 경우, [여기를 참조하여](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) 도움을 받으세요.

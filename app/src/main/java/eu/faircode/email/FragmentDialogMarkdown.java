@@ -115,7 +115,7 @@ public class FragmentDialogMarkdown extends FragmentDialogBase {
                         .replace("/FAQ.md#FAQ", "/FAQ.md#faq")
                         .replace("/FAQ.md#user-content-faq", "/FAQ.md#faq")
                         .replace(
-                                "https://github.com/M66B/FairEmail/blob/master/FAQ.md",
+                                "https://github.com/34j/FairEmailFree/blob/master/FAQ.md",
                                 "https://m66b.github.io/FairEmail/");
 
                 Markwon markwon = Markwon.builder(context)

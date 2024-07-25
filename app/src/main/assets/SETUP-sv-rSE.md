@@ -18,7 +18,7 @@ Om snabbinstallationen inte fungerade måste du ställa in ett konto och en iden
 
 För att lägga till ett konto tryck på *Manuell inställning och fler alternativ*, tryck på *Konton* och tryck på 'plus' knappen längst ner och välj IMAP (eller POP3). Välj en leverantör från listan, ange användarnamnet, vilket är mestadels din e-postadress och ange ditt lösenord. Tryck på *Kontrollera* för att låta FairEmail ansluta till e-postservern och hämta en lista över systemmappar. Efter att ha granskat valet av systemmapp kan du lägga till kontot genom att trycka på *Spara*.
 
-Om din leverantör (som det finns tusentals av) inte finns med i listan över leverantörer, välj *Custom*. Ange domännamnet, till exempel *gmail.com* och tryck på *Hämta inställningar*. Om din leverantör stödjer [auto-discovery](https://tools.ietf.org/html/rfc6186), fyller FairEmail i värdnamnet och portnumret, om inte kontrollerar du installationsinstruktionerna för din leverantör för rätt IMAP-värdnamn, portnummer och protokoll (SSL/TLS eller STARTTLS). För mer information om detta, vänligen se [här](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Om din leverantör (som det finns tusentals av) inte finns med i listan över leverantörer, välj *Custom*. Ange domännamnet, till exempel *gmail.com* och tryck på *Hämta inställningar*. Om din leverantör stödjer [auto-discovery](https://tools.ietf.org/html/rfc6186), fyller FairEmail i värdnamnet och portnumret, om inte kontrollerar du installationsinstruktionerna för din leverantör för rätt IMAP-värdnamn, portnummer och protokoll (SSL/TLS eller STARTTLS). För mer information om detta, vänligen se [här](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Ställ in identitet - för att skicka e-post
 
@@ -26,7 +26,7 @@ På samma sätt trycker du på *Manuell installation och fler alternativ*, för 
 
 Om kontot konfigurerades manuellt behöver du troligen också konfigurera identiteten manuellt. Ange domännamnet, till exempel *gmail.com* och tryck på *Hämta inställningar*. Om din leverantör stödjer [auto-discovery](https://tools.ietf.org/html/rfc6186), fyller FairEmail i värdnamnet och portnumret, om inte kontrollerar du installationsinstruktionerna för din leverantör för rätt SMTP-värdnamn, portnummer och protokoll (SSL/TLS eller STARTTLS).
 
-Se [Vanliga frågor](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) om hur du använder alias.
+Se [Vanliga frågor](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) om hur du använder alias.
 
 ## Bevilja behörigheter - för att få tillgång till kontaktinformation
 
@@ -38,4 +38,4 @@ På de senaste Android-versionerna kommer Android att sätta appar i viloläge n
 
 ## Frågor eller problem
 
-Om du har en fråga eller ett problem, vänligen [se här](https://github.com/M66B/FairEmail/blob/master/FAQ.md) för hjälp.
+Om du har en fråga eller ett problem, vänligen [se här](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) för hjälp.

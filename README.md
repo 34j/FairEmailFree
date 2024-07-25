@@ -1,4 +1,4 @@
-<img src="https://github.com/M66B/FairEmail/raw/master/images/banner7_long.png" />
+<img src="https://github.com/34j/FairEmailFree/raw/master/images/banner7_long.png" />
 
 <p align="center">
 	<a href="#downloads">Downloads</a> &bull;
@@ -13,9 +13,9 @@
 
 # FairEmail
 
-[![GitHub](https://img.shields.io/github/license/M66B/FairEmail.svg)](https://github.com/M66B/FairEmail/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/M66B/FairEmail.svg)](https://github.com/M66B/FairEmail/releases/latest)
-[![GitHub commits since tagged version](https://img.shields.io/github/commits-since/M66B/FairEmail/0.1.svg?logo=github)](https://github.com/M66B/FairEmail/commits/)
+[![GitHub](https://img.shields.io/github/license/M66B/FairEmail.svg)](https://github.com/34j/FairEmailFree/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/M66B/FairEmail.svg)](https://github.com/34j/FairEmailFree/releases/latest)
+[![GitHub commits since tagged version](https://img.shields.io/github/commits-since/M66B/FairEmail/0.1.svg?logo=github)](https://github.com/34j/FairEmailFree/commits/)
 
 *Fully featured, open source, privacy oriented email app for Android*
 
@@ -30,8 +30,8 @@ FairEmail might be for you if you value your privacy.
 ## Main features
 
 * Fully featured
-* 100% [open source](https://github.com/M66B/FairEmail/blob/master/LICENSE)
-* [Privacy oriented](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md)
+* 100% [open source](https://github.com/34j/FairEmailFree/blob/master/LICENSE)
+* [Privacy oriented](https://github.com/34j/FairEmailFree/blob/master/PRIVACY.md)
 * Unlimited accounts
 * Unlimited email addresses
 * Unified inbox (optionally accounts or folders)
@@ -116,7 +116,7 @@ Please see [here](https://email.faircode.eu/#screenshots) for screenshots.
 
 Supported download locations:
 
-* [GitHub](https://github.com/M66B/FairEmail/releases)
+* [GitHub](https://github.com/34j/FairEmailFree/releases)
 * [Play store](https://play.google.com/store/apps/details?id=eu.faircode.email)
 * [Play store](https://play.google.com/apps/testing/eu.faircode.email) (test)
 * [F-Droid](https://f-droid.org/en/packages/eu.faircode.email/) (the F-Droid app can be downloaded [here](https://f-droid.org/))
@@ -178,7 +178,7 @@ Please see [here](https://m66b.github.io/FairEmail/#known-problems) for known pr
 
 ## Privacy
 
-Please see [here](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail) for the privacy policy.
+Please see [here](https://github.com/34j/FairEmailFree/blob/master/PRIVACY.md#fairemail) for the privacy policy.
 
 ## Support
 
@@ -208,7 +208,7 @@ Please note that by contributing you agree to the license below, including the c
 
 ## Attribution
 
-See [here](https://github.com/M66B/FairEmail/blob/master/ATTRIBUTION.md) for a list of used libraries and associated license information.
+See [here](https://github.com/34j/FairEmailFree/blob/master/ATTRIBUTION.md) for a list of used libraries and associated license information.
 
 Online translations are supported by:
 
@@ -220,7 +220,7 @@ Error reporting is sponsored by:
 
 [Bugsnag](https://www.bugsnag.com/) monitors application stability
 and is used to [help improve FairEmail](https://m66b.github.io/FairEmail/#faq104).
-Error reporting is disabled by default, see also [the privacy policy](https://github.com/M66B/FairEmail/blob/master/PRIVACY.md#fairemail).
+Error reporting is disabled by default, see also [the privacy policy](https://github.com/34j/FairEmailFree/blob/master/PRIVACY.md#fairemail).
 
 ## License
 

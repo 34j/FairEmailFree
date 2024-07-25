@@ -18,7 +18,7 @@ Ako brzo postavljanje ne uspije, morat ćete ručno postaviti račun i identitet
 
 Za dodavanje računa dodirnite *Ručno postavljanje i više opcija*, dodirnite *Računi* i dodirnite dugme 'plus' pri dnu i odaberite IMAP (ili POP3). S popisa odaberite provajdera, unesite korisničko ime, koje je uglavnom vaša adresa e-pošte i unesite svoju lozinku. Dodirnite *Provjeri* da biste se omogućili da se FairEmail poveže s poslužiteljem e-pošte i preuzme popis sistemskih mapa. Nakon pregleda izbora mape sustava možete dodati račun dodirom na *Spremi*.
 
-Ako vaš davatelj nije na popisu davatelja, postoje tisuće davatelja, odaberite *Prilagođeno*. Unesite ime domene, primjerice *gmail.com* i dodirnite *Dohvati postavke*. Ako vaš davatelj usluga podržava [auto-otkrivanje](https://tools.ietf.org/html/rfc6186), FairEmail će ispuniti ime poslužitelja i broj porta. U suprotnom, provjerite upute za postavljanje ispravnog imena IMAP poslužitelja, broja porta i protokola za šifriranje (SSL/TLS ili STARTTLS). Više o ovome pogledajte [ovdje](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Ako vaš davatelj nije na popisu davatelja, postoje tisuće davatelja, odaberite *Prilagođeno*. Unesite ime domene, primjerice *gmail.com* i dodirnite *Dohvati postavke*. Ako vaš davatelj usluga podržava [auto-otkrivanje](https://tools.ietf.org/html/rfc6186), FairEmail će ispuniti ime poslužitelja i broj porta. U suprotnom, provjerite upute za postavljanje ispravnog imena IMAP poslužitelja, broja porta i protokola za šifriranje (SSL/TLS ili STARTTLS). Više o ovome pogledajte [ovdje](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Postavljanje identiteta - za slanje e-pošte
 
@@ -26,7 +26,7 @@ Slično tome, za dodavanje identiteta dodirnite *Ručno postavljanje i više opc
 
 Ako je račun konfiguriran ručno, vjerojatno ćete morati i ručno konfigurirati identitet. Unesite ime domene, primjerice *gmail.com* i dodirnite *Dohvati postavke*. Ako vaš davatelj usluga podržava [auto-otkrivanje](https://tools.ietf.org/html/rfc6186), FairEmail će ispuniti naziv poslužitelja i broj porta. U suprotnom, provjerite upute za postavljanje ispravnog imena SMTP poslužitelja, broja porta i protokola za šifriranje (SSL/TLS ili STARTTLS).
 
-Pogledajte [ovaj FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) o korištenju aliasa.
+Pogledajte [ovaj FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) o korištenju aliasa.
 
 ## Davanje dozvola - za pristup podacima o kontaktima
 
@@ -38,4 +38,4 @@ Na novijim verzijama Androida Android će staviti uređaje za spavanje kad je ek
 
 ## Pitanja ili problemi
 
-Ako imate pitanje ili problem, molimo vas da [potražite ovdje](https://github.com/M66B/FairEmail/blob/master/FAQ.md) pomoć.
+Ako imate pitanje ili problem, molimo vas da [potražite ovdje](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) pomoć.

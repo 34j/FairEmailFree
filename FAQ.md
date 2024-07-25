@@ -28,7 +28,7 @@ For other more common questions, please see the tutorials below or contact me vi
 
 ## Tutorials
 
-Please [see here](https://github.com/M66B/FairEmail/tree/master/tutorials) for tutorials &#x1F4D6;.
+Please [see here](https://github.com/34j/FairEmailFree/tree/master/tutorials) for tutorials &#x1F4D6;.
 
 <br />
 
@@ -3803,7 +3803,7 @@ However, not all servers support IMAP keywords and besides that there are no sta
 
 ~~You can solve this in two ways:~~
 
-* ~~Switch to the official version of FairEmail, see [here](https://github.com/M66B/FairEmail/blob/master/README.md#downloads) for the options~~
+* ~~Switch to the official version of FairEmail, see [here](https://github.com/34j/FairEmailFree/blob/master/README.md#downloads) for the options~~
 * ~~Use app specific passwords, see [this FAQ](#faq6)~~
 
 ~~Using *select account* in third party builds is not possible in recent versions anymore.~~
@@ -3851,7 +3851,7 @@ OAuth is not supported for third party builds like the F-Droid build, please [se
 
 Since version 1.1859 there is support for custom OAuth.
 To use custom OAuth, an XML file containing the server and OAuth data, like the client secret, should be created and imported.
-Please [see here](https://github.com/M66B/FairEmail/blob/master/app/src/main/res/xml/providers.xml) about how the XML file should look like.
+Please [see here](https://github.com/34j/FairEmailFree/blob/master/app/src/main/res/xml/providers.xml) about how the XML file should look like.
 The XML file can be imported via a button in the debug panel of the miscellaneous settings of the app.
 To show the debug panel, debug mode mode should temporarily be enabled.
 After importing, you can use the quick setup wizard to configure an account.
@@ -3926,7 +3926,7 @@ Moreover, setting up an account/identity with the quick setup wizard is simple, 
 ~~Chips are not suitable for showing in a list~~
 ~~and since the message header in a list should look similar to the message header of the message view it is not an option to use chips for viewing messages.~~
 
-~~Reverted [commit](https://github.com/M66B/FairEmail/commit/2c80c25b8aa75af2287f471b882ec87d5a5a5015).~~
+~~Reverted [commit](https://github.com/34j/FairEmailFree/commit/2c80c25b8aa75af2287f471b882ec87d5a5a5015).~~
 
 <br />
 
@@ -4669,7 +4669,7 @@ Unfortunately, there is no way to resolve this.
 Note that the GitHub version will automatically check for updates.
 When desired, this can be turned off in the miscellaneous settings.
 
-Please [see here](https://github.com/M66B/FairEmail/blob/master/README.md#downloads) for all download option
+Please [see here](https://github.com/34j/FairEmailFree/blob/master/README.md#downloads) for all download option
 and [see here](#faq173) for the differences between the different release types.
 
 If you have a problem with the F-Droid build, please check if there is a newer GitHub version first.
@@ -5053,7 +5053,7 @@ Message classification is a pro feature, except for the spam folder.
 &#x1F30E; [Google Translate](https://translate.google.com/translate?sl=en&u=https%3A%2F%2Fm66b.github.io%2FFairEmail%2F%23faq164)
 
 Unfortunately, Android [does not support](https://stackoverflow.com/a/26511725/1794097) dynamic themes,
-which means all themes need [to be predefined](https://github.com/M66B/FairEmail/blob/master/app/src/main/res/values/styles.xml).
+which means all themes need [to be predefined](https://github.com/34j/FairEmailFree/blob/master/app/src/main/res/values/styles.xml).
 
 Since for each theme there needs to be a light, dark and black variant,
 it is not feasible to add for each color combination (literally millions) a predefined theme.
@@ -5283,14 +5283,14 @@ Related questions:
 * The Play Store version does not support Gravatars/Libravatars/BIMI due to Play Store policies
 * The Play Store version does not support auto-storing iCalendar invitations, see [this FAQ](#faq186) for more information
 * The Play Store version is released about once a month only because I am tired of 1-star ratings for *Too many updates*. If you want to receive more updates, you can join the [Play Store test program](https://play.google.com/apps/testing/eu.faircode.email).
-* The GitHub version will check for [updates on GitHub](https://github.com/M66B/FairEmail/releases) and is updated more frequently, but updates need to be installed manually
+* The GitHub version will check for [updates on GitHub](https://github.com/34j/FairEmailFree/releases) and is updated more frequently, but updates need to be installed manually
 * The GitHub version has some different links, some more features and options, and some different default values (more geared to advanced users)
 * The GitHub version can be installed as an update over the Play store version, whereas the F-Droid build can't (see below for more details)
 * The F-Droid build does not support OAuth, see [this FAQ](#faq147) about why not
 * The F-Droid build does not include [Google Play Billing](https://developer.android.com/google/play/billing/integrate), so Play store purchases cannot be reused
 * The F-Droid build is supported only if the version number is the same as the version number of the latest GitHub version, see also [this FAQ](#faq147)
 
-The Play store and GitHub version are signed with the [same digital signature](https://github.com/M66B/FairEmail#downloads) (security certificate).
+The Play store and GitHub version are signed with the [same digital signature](https://github.com/34j/FairEmailFree#downloads) (security certificate).
 The F-Droid build is signed by the F-Droid organization with a different digital key.
 This means you can't update the F-Droid build with the Play store or GitHub version or the other way around without reinstalling.
 However, it is possible to install the GitHub version over the Play store version,
@@ -5568,7 +5568,7 @@ Sending protected content is a pro feature, decrypting protected content is a fr
 
 Yes, you can if you use Windows 11 or later and install the [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/).
 
-You'll need to [download the GitHub version](https://github.com/M66B/FairEmail/releases) of the app and sideload it,
+You'll need to [download the GitHub version](https://github.com/34j/FairEmailFree/releases) of the app and sideload it,
 which means that you need to enable developer mode, please [see here](https://learn.microsoft.com/en-us/windows/android/wsa/#test-and-debug),
 and that you need to install adb (platform tools), [see here](https://developer.android.com/studio/command-line/adb).
 
@@ -5592,7 +5592,7 @@ Amazon never responded to an issue reported about this.
 
 &#x1F30E; [Google Translate](https://translate.google.com/translate?sl=en&u=https%3A%2F%2Fm66b.github.io%2FFairEmail%2F%23faq186)
 
-* Install the [GitHub version](https://github.com/M66B/FairEmail/releases) of the app
+* Install the [GitHub version](https://github.com/34j/FairEmailFree/releases) of the app
 * Grant permissions via setup step 2 of the main settings screen
 * Select a calendar in the accounts settings under *Manual setup and account options* (you can use the *Reset* button to disable storing invitations)
 
@@ -6047,7 +6047,7 @@ Please [see here](https://docs.github.com/en/actions/security-guides/using-artif
 You can verify in this way that an APK file was built and signed by a GitHub workflow:
 
 1. Install the [GitHub CLI](https://cli.github.com/)
-2. Download and extract the [APK files](https://github.com/M66B/FairEmail/actions)
+2. Download and extract the [APK files](https://github.com/34j/FairEmailFree/actions)
 3. [Verify](https://docs.github.com/en/actions/security-guides/using-artifact-attestations-to-establish-provenance-for-builds#verifying-artifact-attestations-with-the-github-cli) attestation of an APK file
 
 
@@ -6065,7 +6065,7 @@ Attestation of APK files is available from version 1.2209.
 
 FairEmail is supported on Android smartphones and tablets and ChromeOS only.
 
-There is support only if the app was downloaded via one of the [supported download locations](https://github.com/M66B/FairEmail#downloads).
+There is support only if the app was downloaded via one of the [supported download locations](https://github.com/34j/FairEmailFree#downloads).
 
 Only the latest Play store version and latest GitHub release are supported.
 The F-Droid build is supported only if the version number is the same as the version number of the latest GitHub release.

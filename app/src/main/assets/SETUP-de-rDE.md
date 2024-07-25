@@ -18,7 +18,7 @@ Wenn die Schnelleinrichtung nicht funktioniert, müssen Sie Konto und Identität
 
 Um ein Konto hinzuzufügen, bitte auf *»Manuelle Einrichtung und weitere Optionen«* und *»Konten«* tippen, sowie unten auf das Plussymbol und IMAP (oder POP3) auswählen. Wählen Sie einen Anbieter aus der Liste, geben Sie den Benutzernamen ein – der meistens Ihre E-Mail-Adresse ist – und geben Sie Ihr Passwort ein. Tippen Sie auf *Prüfen*, um FairEmail mit dem E-Mail-Server zu verbinden und eine Liste von Systemordnern zu laden. Nach der Überprüfung der Systemordnerauswahl können Sie das Konto hinzufügen, indem Sie auf *Speichern* klicken.
 
-Wenn Ihr Anbieter nicht in der Liste der Anbieter ist, wählen Sie *Benutzerdefiniert*. Geben Sie den Domainnamen ein, zum Beispiel *gmail.com* und tippen Sie auf *»Einstellungen abrufen«*. Wenn Ihr Anbieter [Auto-discovery](https://tools.ietf.org/html/rfc6186) (automatische Konfiguration) unterstützt, wird FairEmail den Hostnamen und die Portnummer ausfüllen, sodass Sie die richtigen Angaben Ihres Anbieters für IMAP-Hostnamen, Portnummer und Protokoll (SSL/TLS oder STARTTLS) nur noch überprüfen müssen. Weitere Informationen dazu finden Sie [hier](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Wenn Ihr Anbieter nicht in der Liste der Anbieter ist, wählen Sie *Benutzerdefiniert*. Geben Sie den Domainnamen ein, zum Beispiel *gmail.com* und tippen Sie auf *»Einstellungen abrufen«*. Wenn Ihr Anbieter [Auto-discovery](https://tools.ietf.org/html/rfc6186) (automatische Konfiguration) unterstützt, wird FairEmail den Hostnamen und die Portnummer ausfüllen, sodass Sie die richtigen Angaben Ihres Anbieters für IMAP-Hostnamen, Portnummer und Protokoll (SSL/TLS oder STARTTLS) nur noch überprüfen müssen. Weitere Informationen dazu finden Sie [hier](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Identität einrichten, um E-Mails zu senden
 
@@ -26,7 +26,7 @@ Um eine Identität hinzuzufügen, auf *»Manuelle Einrichtung und Kontooptionen�
 
 Wenn das Konto manuell konfiguriert wurde, müssen Sie wahrscheinlich auch die Identität manuell konfigurieren. Geben Sie den Domainnamen ein, zum Beispiel *gmail.com* und tippen Sie auf *»Einstellungen abrufen«*. Wenn Ihr Anbieter [Auto-discovery](https://tools.ietf.org/html/rfc6186) (automatische Konfiguration) unterstützt, wird FairEmail den Hostnamen und die Portnummer ausfüllen, sodass Sie die richtigen Angaben Ihres Anbieters für SMTP-Hostnamen, Portnummer und Protokoll (SSL/TLS oder STARTTLS) nur noch überprüfen müssen.
 
-Zur Verwendung von Alias-Adressen bitte [diese F&A](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) beachten.
+Zur Verwendung von Alias-Adressen bitte [diese F&A](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) beachten.
 
 ## Berechtigungen erteilen, um auf Kontaktinformationen zugreifen zu können
 
@@ -38,4 +38,4 @@ Bei den aktuellen Android-Versionen schaltet Android Apps in den Standby-Modus, 
 
 ## Fragen oder Probleme
 
-Wenn Sie eine Frage oder ein Problem haben, können Sie [hier](https://github.com/M66B/FairEmail/blob/master/FAQ.md) Hilfe erhalten.
+Wenn Sie eine Frage oder ein Problem haben, können Sie [hier](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) Hilfe erhalten.

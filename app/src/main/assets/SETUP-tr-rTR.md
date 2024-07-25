@@ -18,7 +18,7 @@ Hızlı kurulum işe yaramazsa, manuel olarak bir hesap ve kimlik oluşturmanız
 
 Bir hesap eklemek için *Manuel kurulum ve diğer seçenekler*'e dokunun, *Hesaplar*'a dokunun ve alttaki 'artı' düğmesine dokunun ve IMAP'yi (veya POP3) seçin. Listeden bir sağlayıcı seçin, çoğunlukla e-posta adresiniz olan kullanıcı adını ve şifrenizi girin. FairEmail'in e-posta sunucusuna bağlanmasını ve sistem klasörlerinin bir listesini almasını sağlamak için *Denetle* düğmesine dokunun. Sistem klasörü seçimini inceledikten sonra *Kaydet* düğmesine dokunarak hesabı ekleyebilirsiniz.
 
-Sağlayıcınız sağlayıcılar listesinde yoksa binlerce sağlayıcı vardır, *Özel*'i seçin. Alan adını girin, örneğin *gmail.com* ve *Ayarları al* düğmesine dokunun. Sağlayıcınız [otomatik bulmayı](https://tools.ietf.org/html/rfc6186) destekliyorsa, FairEmail ana bilgisayar adını ve bağlantı noktası numarasını doldurur, aksi takdirde doğru IMAP ana bilgisayar adı, bağlantı noktası numarası ve şifreleme protokolü (SSL/TLS veya STARTTLS) için sağlayıcınızın kurulum talimatlarını kontrol edin. Bunun hakkında daha fazlası için lütfen [burada](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts)'ya bakın.
+Sağlayıcınız sağlayıcılar listesinde yoksa binlerce sağlayıcı vardır, *Özel*'i seçin. Alan adını girin, örneğin *gmail.com* ve *Ayarları al* düğmesine dokunun. Sağlayıcınız [otomatik bulmayı](https://tools.ietf.org/html/rfc6186) destekliyorsa, FairEmail ana bilgisayar adını ve bağlantı noktası numarasını doldurur, aksi takdirde doğru IMAP ana bilgisayar adı, bağlantı noktası numarası ve şifreleme protokolü (SSL/TLS veya STARTTLS) için sağlayıcınızın kurulum talimatlarını kontrol edin. Bunun hakkında daha fazlası için lütfen [burada](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts)'ya bakın.
 
 ## Kimlik kurulumu - e-posta göndermek için
 
@@ -26,7 +26,7 @@ Benzer şekilde, bir kimlik eklemek için *Manuel kurulum ve diğer seçenekler*
 
 Hesap elle yapılandırıldıysa, kimliği de elle yapılandırmanız gerekir. Alan adını girin, örneğin *gmail.com* ve *Ayarları al* düğmesine dokunun. Sağlayıcınız [otomatik bulmayı](https://tools.ietf.org/html/rfc6186) destekliyorsa, FairEmail ana bilgisayar adını ve bağlantı noktası numarasını doldurur, aksi takdirde doğru SMTP ana bilgisayar adı, bağlantı noktası numarası ve şifreleme protokolü (SSL/TLS veya STARTTLS) için sağlayıcınızın kurulum talimatlarını kontrol edin.
 
-Takma ad kullanma hakkında [bu SSS](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9)'a bakın.
+Takma ad kullanma hakkında [bu SSS](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9)'a bakın.
 
 ## Verilen izinler - kişi bilgilerine erişmek için
 
@@ -38,4 +38,4 @@ Son Android sürümlerinde batarya kullanımını azaltmak için ekran bir süre
 
 ## Sorular veya sorunlar
 
-Bir sorunuz veya probleminiz varsa, lütfen yardım için [buraya bakın](https://github.com/M66B/FairEmail/blob/master/FAQ.md).
+Bir sorunuz veya probleminiz varsa, lütfen yardım için [buraya bakın](https://github.com/34j/FairEmailFree/blob/master/FAQ.md).

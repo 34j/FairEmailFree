@@ -18,7 +18,7 @@ Se a configuración rápida non funciona, terá que configurar a conta e a ident
 
 Para engadir unha conta, toque *Configuración manual e máis opcións*, toque *Contas* e logo toque o botón '+' ao fondo, e seleccione IMAP (ou POP3). Seleccione un provedor da lista, escriba o nome de usuario, que moitas veces será o seu enderezo de correo, e logo escriba o seu contrasinal. Toque en *Comprobar* para que FairEmail conecte ao servidor de correo e colla a lista de cartafoles de sistema. Despois de revisar a selección de cartafoles de sistema, pode engadir a conta tocando *Gardar*.
 
-Se ou seu provedor non está na lista de provedores, porque hai milleiros deles, seleccione *Personalizado*. Escriba o nome do dominio, por exemplo *gmail.com* e toque en *Obter configuración*. Se o seu servidor ten [auto-descubrimento](https://tools.ietf.org/html/rfc6186), FairEmail encherá o nome do servidor e o porto, de non ser así, lea as instrucións do seu provedor para o nome axeitado de IMAP, o seu porto e o protocolo (SSL/TLS ou STARTTLS). Para máis información, vexa [aquí](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Se ou seu provedor non está na lista de provedores, porque hai milleiros deles, seleccione *Personalizado*. Escriba o nome do dominio, por exemplo *gmail.com* e toque en *Obter configuración*. Se o seu servidor ten [auto-descubrimento](https://tools.ietf.org/html/rfc6186), FairEmail encherá o nome do servidor e o porto, de non ser así, lea as instrucións do seu provedor para o nome axeitado de IMAP, o seu porto e o protocolo (SSL/TLS ou STARTTLS). Para máis información, vexa [aquí](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Crear unha identidade - para enviar correo
 
@@ -26,7 +26,7 @@ Da mesma maneira, para engadir unha identidade, toque *Configuración manual e m
 
 Se a conta foi configurada manualmente, é probable que teña que configurar tamén a identidade de xeito manual. Escriba o nome do dominio, por exemplo *gmail.com* e toque en *Obter configuración*. Se o seu servidor ten [auto-descubrimento](https://tools.ietf.org/html/rfc6186), FairEmail encherá o nome do servidor e o porto, de non ser así, lea as instrucións do seu provedor para o nome axeitado de SMTP, o seu porto e o protocolo (SSL/TLS ou STARTTLS).
 
-Vexa [esta pregunta frecuente](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) sobre o uso de alcumes.
+Vexa [esta pregunta frecuente](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) sobre o uso de alcumes.
 
 ## Conceder permisos - para acceder á información dos contactos
 
@@ -38,4 +38,4 @@ Nas versións recentes de Android, Android pon a durmir ás aplicacións cando a
 
 ## Preguntas ou problemas
 
-Se ten algunha dúbida ou problema, [vaia aquí](https://github.com/M66B/FairEmail/blob/master/FAQ.md) para atopar axuda.
+Se ten algunha dúbida ou problema, [vaia aquí](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) para atopar axuda.

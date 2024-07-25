@@ -18,7 +18,7 @@ Kui kiirseadistamine ei toimi, pead seadistama konto ja identiteedi käsitsi. Lo
 
 Konto lisamiseks toksa *Käsitsi seadistamine ja Veel valikuid*, toksa *Kontod* ja toksa "pluss" button at the bottom and select IMAP (or POP3). Vali loetelust teenusepakkuja, sisesta kasutajanimi, mis on enamasti su e-postiaadress, ja sisesta oma salasõna. Toksa *Kontrolli*, et FairEmail ühenduks meiliserveriga ja hangiks süsteemikaustade loetelu. Pärast süsteemikaustade valiku üle vaatamist saad konto lisada, toksates *Salvesta*.
 
-Kui su teenusepakkuja pole teenusepakkujate loetelus, olemas on neid tuhandeid, vali *Kohandatud*. Sisesta domeeni nimi, näiteks *gmail.com* ja toksa *Hangi seaded*. Kui su teenusepakkuja toetab [automaatset tuvastamist](https://tools.ietf.org/html/rfc6186), täidab FairEmail hostinime ja pordinumbri. Vastasel juhul leia oma teenusepakkuja seadistamisjuhenditest õige IMAPi hostinimi, pordi number ja krüpteerimisprotokoll (SSL/TLS või STARTTLS) Rohkem sellest vaata palun [siit](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Kui su teenusepakkuja pole teenusepakkujate loetelus, olemas on neid tuhandeid, vali *Kohandatud*. Sisesta domeeni nimi, näiteks *gmail.com* ja toksa *Hangi seaded*. Kui su teenusepakkuja toetab [automaatset tuvastamist](https://tools.ietf.org/html/rfc6186), täidab FairEmail hostinime ja pordinumbri. Vastasel juhul leia oma teenusepakkuja seadistamisjuhenditest õige IMAPi hostinimi, pordi number ja krüpteerimisprotokoll (SSL/TLS või STARTTLS) Rohkem sellest vaata palun [siit](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Seadista identiteet - et saata e-kirju
 
@@ -26,7 +26,7 @@ Sarnaselt toksa identiteedi lisamiseks valikut *Käsitsi seadistamine ja Veel va
 
 Kui konto seadistati käsitsi, pead tõenäoliselt ka identiteedi käsitsi häälestama. Sisesta domeeni nimi, näiteks *gmail.com*, ja toksa *Hangi seaded*. Kui su teenusepakkuja toetab [automaatset tuvastamist](https://tools.ietf.org/html/rfc6186), täidab FairEmail hostinime ja pordinumbri. Vastasel juhul leia oma teenusepakkuja seadistamisjuhenditest õige SMTP hostinimi, pordi number ja krüpteerimisprotokoll (SSL/TLS või STARTTLS).
 
-Aliaste kasutamise kohta vaata [seda KKK-d](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9).
+Aliaste kasutamise kohta vaata [seda KKK-d](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9).
 
 ## Võimalda õigused - et pääseda ligi kontaktide infole
 
@@ -38,4 +38,4 @@ Uuemates Androidi versioonides lülitab Android rakendused puhkeolekusse, kui ek
 
 ## Küsimused või probleemid
 
-Kui sul on küsimus või probleem, vaata palun [abiks siia](https://github.com/M66B/FairEmail/blob/master/FAQ.md).
+Kui sul on küsimus või probleem, vaata palun [abiks siia](https://github.com/34j/FairEmailFree/blob/master/FAQ.md).

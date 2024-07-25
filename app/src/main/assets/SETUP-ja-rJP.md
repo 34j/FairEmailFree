@@ -18,7 +18,7 @@ FairEmail のセットアップは非常に簡単です。 メールを受信す
 
 アカウントを追加するには、*手動セットアップとアカウントのオプション設定* から *アカウント* を選択し、下部にある「＋」ボタンをタップして IMAP (または POP3) を選択します。 リストからプロバイダーを選択し、ユーザー名 (ほとんどはメールアドレス)、パスワードを入力します。 *確認* をタップして FairEmail がメールサーバーに接続し、システムフォルダーのリストを取得できるようにします。 システムフォルダーの選択を確認後、*保存* をタップするとアカウントを追加できます。
 
-プロバイダーがリストにない場合は、*カスタム* を選択してください。 *gmail.com* などのドメイン名を入力し、*設定を取得* をタップします。 プロバイダーが SRV レコードを設定し[自動検出](https://tools.ietf.org/html/rfc6186)に対応している場合、FairEmail がホスト名とポート番号を入力します。 それ以外の場合は、プロバイダーのセットアップ手順に従って正しい IMAP ホスト名・ポート番号・プロトコル (SSL/TLS または STARTTLS) を入力してください。 詳細は[こちら](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts)をご確認ください。
+プロバイダーがリストにない場合は、*カスタム* を選択してください。 *gmail.com* などのドメイン名を入力し、*設定を取得* をタップします。 プロバイダーが SRV レコードを設定し[自動検出](https://tools.ietf.org/html/rfc6186)に対応している場合、FairEmail がホスト名とポート番号を入力します。 それ以外の場合は、プロバイダーのセットアップ手順に従って正しい IMAP ホスト名・ポート番号・プロトコル (SSL/TLS または STARTTLS) を入力してください。 詳細は[こちら](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts)をご確認ください。
 
 ## ユーザー ID を設定 - メールを送信する
 
@@ -26,7 +26,7 @@ FairEmail のセットアップは非常に簡単です。 メールを受信す
 
 アカウントを手動で設定した場合、ユーザー ID も手動で設定する必要があります。 *gmail.com* などのドメイン名を入力し、*設定を取得* をタップします。 プロバイダーが SRV レコードを設定し[自動検出](https://tools.ietf.org/html/rfc6186)に対応している場合、FairEmail がホスト名とポート番号を入力します。 それ以外の場合は、プロバイダーのセットアップ手順に従って正しい SMTP ホスト名・ポート番号・プロトコル (SSL/TLS または STARTTLS) を入力してください。
 
-エイリアスの使用については [FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) を確認してください。
+エイリアスの使用については [FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) を確認してください。
 
 ## 権限を許可 - 連絡先情報にアクセスする
 
@@ -38,4 +38,4 @@ Android の最近のバージョンでは、バッテリーの消費を抑える
 
 ## 質問や問題
 
-質問や問題がある場合は、[こちら](https://github.com/M66B/FairEmail/blob/master/FAQ.md)をご覧ください。
+質問や問題がある場合は、[こちら](https://github.com/34j/FairEmailFree/blob/master/FAQ.md)をご覧ください。

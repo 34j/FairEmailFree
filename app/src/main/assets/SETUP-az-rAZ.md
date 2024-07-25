@@ -18,7 +18,7 @@ Bu, əksər e-poçt provayderi üçün işləyir.
 
 Bir hesab əlavə etmək üçün, *Əllə quraşdırma və daha çox seçim*lərə, ardından *Hesablar*a toxunun və altdakı "+" düyməsinə toxunaraq IMAP (və ya POP3) seçin. Siyahıdan bir provayder seçin, əsasən e-poçt ünvanınız olan istifadəçi adınızı və parolunuzu daxil edin. "FairEmail"in e-poçt serverinə bağlanmasına və sistem qovluqlarının bir siyahısını almasına icazə vermək üçün *Yoxla* düyməsinə toxunun. Sistem qovluq seçiminə nəzər saldıqdan sonra *Saxla* düyməsinə toxunaraq hesab əlavə edə bilərsiniz.
 
-Əgər provayderiniz provayderlər siyahısında yoxdursa, minlərlə provayder var, *Özəl* düyməsinə toxunun. Domen adını daxil edin, məsələn *gmail.com* və *Ayarları al* düyməsinə toxunun. Əgər provayderiniz [avtomatik kəşf et](https://tools.ietf.org/html/rfc6186)məni dəstəkləyirsə, FairEmail, host adını və port nömrəsini dolduracaq. Həmçinin doğru IMAP host adı, port nömrəsi və şifrələmə protokol (SSL/TLS və ya STARTTLS) üçün provayderinizin quraşdırma təlimatlarını nəzərdən keçirin. Daha ətraflı, zəhmət olmasa [bura](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts) baxın.
+Əgər provayderiniz provayderlər siyahısında yoxdursa, minlərlə provayder var, *Özəl* düyməsinə toxunun. Domen adını daxil edin, məsələn *gmail.com* və *Ayarları al* düyməsinə toxunun. Əgər provayderiniz [avtomatik kəşf et](https://tools.ietf.org/html/rfc6186)məni dəstəkləyirsə, FairEmail, host adını və port nömrəsini dolduracaq. Həmçinin doğru IMAP host adı, port nömrəsi və şifrələmə protokol (SSL/TLS və ya STARTTLS) üçün provayderinizin quraşdırma təlimatlarını nəzərdən keçirin. Daha ətraflı, zəhmət olmasa [bura](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts) baxın.
 
 ## Kimlik quraşdırma - e-poçt göndərmək üçün
 
@@ -26,7 +26,7 @@ Eynilə, bir kimlik əlavə etmək üçün *Əllə quraşdırma və daha çox se
 
 Hesab əllə konfiqurasiya edilibsə, böyük ehtimalla kimliyi də əllə konfiqurasiya etməli olacaqsınız. Domen adını daxil edin, məsələn *gmail.com* və *Ayarları al* düyməsinə toxunun. Əgər provayderiniz [avtomatik kəşf et](https://tools.ietf.org/html/rfc6186)məni dəstəkləyirsə, FairEmail, host adını və port nömrəsini dolduracaq. Həmçinin doğru SMTP host adı, port nömrəsi və şifrələmə protokol (SSL/TLS və ya STARTTLS) üçün provayderinizin quraşdırma təlimatlarını nəzərdən keçirin.
 
-Ləqəb istifadəsi haqqında [TSS](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9)-a baxın.
+Ləqəb istifadəsi haqqında [TSS](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9)-a baxın.
 
 ## Verilən icazələr - əlaqə məlumatlarına müraciət etmək üçün
 
@@ -38,4 +38,4 @@ Son Android versiyalarında, Android, batareya istifadəsini azaltmaq üçün ek
 
 ## Suallar və ya problemlər
 
-Əgər sualınız varsa və ya problem yaşayırsınızsa, zəhmət olmasa kömək üçün [bura baxın](https://github.com/M66B/FairEmail/blob/master/FAQ.md).
+Əgər sualınız varsa və ya problem yaşayırsınızsa, zəhmət olmasa kömək üçün [bura baxın](https://github.com/34j/FairEmailFree/blob/master/FAQ.md).

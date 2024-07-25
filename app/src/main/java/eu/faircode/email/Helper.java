@@ -220,7 +220,7 @@ public class Helper {
 
     static final String PACKAGE_WEBVIEW = "https://play.google.com/store/apps/details?id=com.google.android.webview";
     static final String PRIVACY_URI = "https://email.faircode.eu/privacy/";
-    static final String TUTORIALS_URI = "https://github.com/M66B/FairEmail/tree/master/tutorials#main";
+    static final String TUTORIALS_URI = "https://github.com/34j/FairEmailFree/tree/master/tutorials#main";
     static final String XDA_URI = "https://forum.xda-developers.com/showthread.php?t=3824168";
     static final String SUPPORT_URI = "https://contact.faircode.eu/?product=fairemailsupport";
     static final String TEST_URI = "https://play.google.com/apps/testing/" + BuildConfig.APPLICATION_ID;
@@ -1387,10 +1387,10 @@ public class Helper {
 
     private static void viewFAQ(Context context, int question, boolean english) {
         // Redirection is done to prevent text editors from opening the link
-        // https://email.faircode.eu/faq -> https://github.com/M66B/FairEmail/blob/master/FAQ.md
-        // https://email.faircode.eu/docs -> https://github.com/M66B/FairEmail/tree/master/docs
-        // https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq1
-        // https://github.com/M66B/FairEmail/blob/master/docs/FAQ-de-rDE.md#user-content-faq1
+        // https://email.faircode.eu/faq -> https://github.com/34j/FairEmailFree/blob/master/FAQ.md
+        // https://email.faircode.eu/docs -> https://github.com/34j/FairEmailFree/tree/master/docs
+        // https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq1
+        // https://github.com/34j/FairEmailFree/blob/master/docs/FAQ-de-rDE.md#user-content-faq1
 
         String base;
         String locale = (english ? null : getFAQLocale());

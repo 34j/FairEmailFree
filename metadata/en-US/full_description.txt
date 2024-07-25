@@ -88,4 +88,4 @@ All pro features are convenience or advanced features.
 * Message list widget
 * Export settings
 
-For more information, please see here: <a href="https://github.com/M66B/FairEmail/blob/master/README.md">https://github.com/M66B/FairEmail/blob/master/README.md</a>
+For more information, please see here: <a href="https://github.com/34j/FairEmailFree/blob/master/README.md">https://github.com/34j/FairEmailFree/blob/master/README.md</a>

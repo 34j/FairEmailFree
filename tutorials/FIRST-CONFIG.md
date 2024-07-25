@@ -2,7 +2,7 @@
 
 &#x1F30E; [Google Translate](https://translate.google.com/translate?sl=en&u=https%3A%2F%2Fgithub.com%2FM66B%2FFairEmail%2Fblob%2Fmaster%2Ftutorials%2FFIRST-CONFIG.md)
 
-**NOTE:** If you have any troubles, check [this extensive FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md).
+**NOTE:** If you have any troubles, check [this extensive FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md).
 You may also ask in [this XDA Forum thread](https://forum.xda-developers.com/t/app-5-0-fairemail-fully-featured-open-source-privacy-oriented-email-app.3824168/)
 or via [this contact form](https://contact.faircode.eu/?product=fairemailsupport). Bad reviews won't help you or the developer, so please try asking in person first.
 
@@ -18,7 +18,7 @@ If your email provider is not listed, or if you want to authenticate using a pas
 
 **NOTE:** OAuth only works for the Play Store and GitHub version. Third party builds (e.g. on F-Droid) do not support OAuth.
 
-**NOTE:** Google OAuth only works for Google accounts added on your Android device. Also see [FAQ #111 Is OAuth supported?](https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq111)
+**NOTE:** Google OAuth only works for Google accounts added on your Android device. Also see [FAQ #111 Is OAuth supported?](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq111)
 
 ![wizard options](images/firstconf-01_wizard-00.png)
 
@@ -46,7 +46,7 @@ Below the wizard, there are two more options:
 * Grant access to your contacts, if you want to use the contacts on your device (optional)
 * Disable battery optimization (highly recommended to ensure the app works in the background)
 
-**NOTE:** Even with battery optimization disabled, FairEmail won't drain your battery. The app usage will be high. But that does not mean high battery usage. See [FAQ #39 How can I reduce the battery usage of FairEmail?](https://github.com/M66B/FairEmail/blob/master/docs/FAQ-en-rGB.md#user-content-faq39) for more information.
+**NOTE:** Even with battery optimization disabled, FairEmail won't drain your battery. The app usage will be high. But that does not mean high battery usage. See [FAQ #39 How can I reduce the battery usage of FairEmail?](https://github.com/34j/FairEmailFree/blob/master/docs/FAQ-en-rGB.md#user-content-faq39) for more information.
 
 ## 6. (Unified) inbox
 
@@ -66,7 +66,7 @@ However, all of those options are optional. The app works well and is stable wit
 
 If you still would like to change the settings, just take time looking around the available options. You can also search through available settings.
 The most common three settings you might want to set on the first run are mentioned below.
-Apart from that, there's also [this separate tutorial describing various settings / options](https://github.com/M66B/FairEmail/blob/master/tutorials/SETTINGS-OVERVIEW.md) in FairEmail.
+Apart from that, there's also [this separate tutorial describing various settings / options](https://github.com/34j/FairEmailFree/blob/master/tutorials/SETTINGS-OVERVIEW.md) in FairEmail.
 
 ### 1. Disable the permanent notification
 
@@ -101,7 +101,7 @@ You can switch themes like this:
 5. Select the theme of your choice and confirm
 
 **NOTE:** Dynamic themes are not possible in Android.
-See [FAQ #164 Can you add customizable themes?](https://github.com/M66B/FairEmail/blob/master/FAQ.md#user-content-faq164) for further details.
+See [FAQ #164 Can you add customizable themes?](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#user-content-faq164) for further details.
 
 <br>
 

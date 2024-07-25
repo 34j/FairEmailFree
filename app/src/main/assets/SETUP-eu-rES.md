@@ -18,7 +18,7 @@ Ezarpen azkarra ez badabil, kontu eta identitatea eskuz sortu beharko dituzu, az
 
 To add an account, tap *Manual setup and more options*, tap *Accounts* and tap the 'plus' button at the bottom and select IMAP (or POP3). Hautatu hornitzaile bat zerrendatik, idatzi erabiltzaile-izena, gehienetan zure e-mail helbidea dena eta sartu zure pasahitza. Sakatu *Egiaztatu* FairEmail e-mail zerbitzarira konektatu dadin eta sistemako karpeten zerrenda jaso dezan. Sistemako karpeten hautaketa egin eta gero kontua gehitu dezakezu *Gorde* sakatuz.
 
-If your provider is not in the list of providers, there are thousands of providers, select *Custom*. Sartu domeinuaren izena, adibidez *gmail.com* eta sakatu *Jaso ezarpenak*. Zure hornitzaileak [aurkitze automatikoa](https://tools.ietf.org/html/rfc6186) onartzen badu, FairEmail-ek hostalari izena eta ataka zenbakia beteko ditu, bestela kontsultatu zure hornitzailearen ezarpen argibideak IMAP ostalari izen, ataka zenbaki eta protokolo (SSL/TLS edo STARTTLS) egokiak zeintzuk diren jakiteko. Honi buruz gehiago jakiteko begiratu [hemen](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+If your provider is not in the list of providers, there are thousands of providers, select *Custom*. Sartu domeinuaren izena, adibidez *gmail.com* eta sakatu *Jaso ezarpenak*. Zure hornitzaileak [aurkitze automatikoa](https://tools.ietf.org/html/rfc6186) onartzen badu, FairEmail-ek hostalari izena eta ataka zenbakia beteko ditu, bestela kontsultatu zure hornitzailearen ezarpen argibideak IMAP ostalari izen, ataka zenbaki eta protokolo (SSL/TLS edo STARTTLS) egokiak zeintzuk diren jakiteko. Honi buruz gehiago jakiteko begiratu [hemen](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Ezarri identitatea - e-maila bidaltzeko
 
@@ -26,7 +26,7 @@ Similarly, to add an identity, tap *Manual setup and more options*, tap *Identit
 
 Kontua eskuz konfiguratu bada, ziur aski identitatea ere eskuz konfiguratu beharko duzu. Sartu domeinuaren izena, adibidez *gmail.com* eta sakatu *Jaso ezarpenak*. Zure hornitzaileak [aurkitze automatikoa](https://tools.ietf.org/html/rfc6186) onartzen badu, FairEmail-ek hostalari izena eta ataka zenbakia beteko ditu, bestela kontsultatu zure hornitzailearen ezarpen argibideak IMAP ostalari izen, ataka zenbaki eta protokolo (SSL/TLS edo STARTTLS) egokiak zeintzuk diren jakiteko.
 
-Ikusi ezizenei buruzko [FAQ hau](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9).
+Ikusi ezizenei buruzko [FAQ hau](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9).
 
 ## Baimenak ematea - kontaktuen informazioa atzitzeko
 
@@ -38,4 +38,4 @@ Android bertsio berrietan, sistemak aplikazioak lokartzen ditu pantaila itzalita
 
 ## Galderak edo arazoak
 
-Galdera edo arazo bat baduzu [begiratu hemen](https://github.com/M66B/FairEmail/blob/master/FAQ.md) laguntzarako.
+Galdera edo arazo bat baduzu [begiratu hemen](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) laguntzarako.

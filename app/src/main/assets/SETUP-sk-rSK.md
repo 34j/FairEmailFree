@@ -18,7 +18,7 @@ Ak rýchle nastavenie nefunguje, musíte si účet a identitu nastaviť ručne, 
 
 Ak chcete pridať konto, ťuknite na položku *Ručné nastavenie a ďalšie možnosti*, ťuknite na položku *Konta*, ťuknite na tlačidlo "plus" v spodnej časti a vyberte položku IMAP (alebo POP3). Zvoľte si poskytovateľa zo zoznamu, vložte používateľské meno, ktoré je väčšinou vaša e-mailová adresa a zadajte heslo. Klepnite na *Skontrolovať* aby sa mohol FairEmail pripojiť do e-mailového serveru a vyzdvihnúť zoznam systémových priečinkov. Po skontrolovaní voľby systémového priečinka môžete pridať účet klepnutím na *Uložiť*.
 
-Ak sa váš poskytovateľ nenachádza v zozname poskytovateľov, ktorých sú tisíce, vyberte možnosť *Vlastný*. Vložte názov domény, napríklad *gmail.com* a klepnite na *Získať nastavenia*. Ak váš poskytovateľ podporuje [automatické zisťovanie](https://tools.ietf.org/html/rfc6186), FairEmail vyplní názov hostiteľa a číslo portu, v opačnom prípade skontrolujte pokyny na nastavenie svojho poskytovateľa, aby ste zistili správny názov hostiteľa IMAP, číslo portu a šifrovací protokol (SSL/TLS alebo STARTTLS). Pre viac informácií, pozrite [tu](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Ak sa váš poskytovateľ nenachádza v zozname poskytovateľov, ktorých sú tisíce, vyberte možnosť *Vlastný*. Vložte názov domény, napríklad *gmail.com* a klepnite na *Získať nastavenia*. Ak váš poskytovateľ podporuje [automatické zisťovanie](https://tools.ietf.org/html/rfc6186), FairEmail vyplní názov hostiteľa a číslo portu, v opačnom prípade skontrolujte pokyny na nastavenie svojho poskytovateľa, aby ste zistili správny názov hostiteľa IMAP, číslo portu a šifrovací protokol (SSL/TLS alebo STARTTLS). Pre viac informácií, pozrite [tu](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Nastaviť identitu - pre odosielanie e-mailov
 
@@ -26,7 +26,7 @@ Podobne, ak chcete pridať identitu, klepnite na *Ručné nastavenie a ďalšie 
 
 Ak bol účet nastavovaný ručne, pravdepodobne budete tiež musieť nastaviť identitu manuálne. Vložte názov domény, napríklad *gmail.com* a klepnite na *Získať nastavenia*. Ak váš poskytovateľ podporuje [automatické zisťovanie](https://tools.ietf.org/html/rfc6186), FairEmail vyplní názov hostiteľa a číslo portu, v opačnom prípade skontrolujte pokyny na nastavenie vášho poskytovateľa, aby ste zistili správny názov hostiteľa SMTP, číslo portu a šifrovací protokol (SSL/TLS alebo STARTTLS).
 
-Viď [tieto často kladené otázky](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) o používaní aliasov.
+Viď [tieto často kladené otázky](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) o používaní aliasov.
 
 ## Udeliť povolenia - pre prístup ku kontaktným informáciám
 
@@ -38,4 +38,4 @@ Na nedávnych verziách Androidu, systém uspí aplikácie pri zhasnutí obrazov
 
 ## Otázky alebo problémy
 
-Ak máte otázku alebo problém, [pozrite sem](https://github.com/M66B/FairEmail/blob/master/FAQ.md) pre pomoc.
+Ak máte otázku alebo problém, [pozrite sem](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) pre pomoc.

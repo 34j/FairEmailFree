@@ -18,7 +18,7 @@ To bo delovalo za večino e-poštnh ponudnikov.
 
 Za dodajanje računa se dotaknite *Ročna naszavitev in več možnosti*, nato *Računi* in nato na dnu gumba 'plus' in izberite IMAP (ali POP3). S seznama izberite ponudnika, vnesite uporabniško ime, ki je običajno vaše e-poštni naslov, in vnesite geslo. Dotaknite se *Preveri*, da FairEmailu omogočite povezavo z e-poštnim strežnikom in pridobitev seznama sistemskih map. Po pregledu izbire sistemskih map lahko račun dodate tako, da se dotaknete *Shrani*.
 
-Če vaš ponudnik ni na seznamu ponudnikov, izberite *Po meri*. Vnesite ime domene, na primer *gmail.com*, in se dotaknite *Dobi nastavitve*. Če vaš ponudnik podpira [samodejno odkrivanje](https://tools.ietf.org/html/rfc6186), bo FairEmail izpolnil ime gostitelja in število vrat. V nasprotnem primeru si za pravilno ime gostitelja IMAP, število vrat in protokol šifriranja (SSL/TLS ali STARTTLS) oglejte navodila za nastavitev pri vašem ponudniku. Za več o tem glejte [tukaj](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Če vaš ponudnik ni na seznamu ponudnikov, izberite *Po meri*. Vnesite ime domene, na primer *gmail.com*, in se dotaknite *Dobi nastavitve*. Če vaš ponudnik podpira [samodejno odkrivanje](https://tools.ietf.org/html/rfc6186), bo FairEmail izpolnil ime gostitelja in število vrat. V nasprotnem primeru si za pravilno ime gostitelja IMAP, število vrat in protokol šifriranja (SSL/TLS ali STARTTLS) oglejte navodila za nastavitev pri vašem ponudniku. Za več o tem glejte [tukaj](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Nastavite identiteto - za pošiljanje e-pošte
 
@@ -26,7 +26,7 @@ Podobno se za dodajanja identitete dotaknite *Ročna nastavitev in več možnost
 
 Če ste račun ročno nastavili, boste verjetno morali ročno nastaviti tudi identiteto. Vnesite ime domene, na primer *gmail.com*, in se dotaknite *Dobi nastavitve*. Če vaš ponudnik podpira [samodejno odkrivanje](https://tools.ietf.org/html/rfc6186), bo FairEmail izpolnil ime gostitelja in število vrat. V nasprotnem primeru si za pravilno ime gostitelja SMTP, število vrat in protokol šifriranja (SSL/TLS ali STARTTLS) oglejte navodila za nastavitev pri vašem ponudniku.
 
-Glejte [ta pogosta vprašanja](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) za informacije o uporabi vzdevkov.
+Glejte [ta pogosta vprašanja](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) za informacije o uporabi vzdevkov.
 
 ## Odobrite dovoljenja - za dostop do podatkov o stikih
 
@@ -38,4 +38,4 @@ V novejših različicah bo Android programe preklopil v spanje, kadar je zaslon 
 
 ## Vprašanja ali težave
 
-Če imate vprašanje ali težavo, za pomoč glejte [tukaj](https://github.com/M66B/FairEmail/blob/master/FAQ.md).
+Če imate vprašanje ali težavo, za pomoč glejte [tukaj](https://github.com/34j/FairEmailFree/blob/master/FAQ.md).

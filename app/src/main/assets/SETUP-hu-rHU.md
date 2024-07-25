@@ -18,7 +18,7 @@ Ha a gyors varázsló nem működik, akkor kézzel kell beállítani a fiókot �
 
 Fiók hozzáadásához, nyomjon a *Kézi beállítás és több opció* panelre, azon belül *Fiókok*, majd a 'plusz' ikonnal állítsa be az IMAP-ot (vagy POP3-at). Válasszon egy szolgáltatót a listából, adja meg a felhasználónevet, ami legtöbbször az email-címe, és írja be a jelszavát. Koppintson az *Ellenőrzés*-re, ezzel megadja a FairEmail-nek, hogy kapcsolódjon az email szerverhez és lekérje a rendszermappák listáját. A rendszermappák listájának átnézése után hozzáadhat fiókot a *Mentés* megnyomásával.
 
-Ha az Ön szolgáltatója nincs a listán, válassza az *Egyéni* részt (több ezer szolgáltatót támogat az app). Írja be a tartomány nevet, például *gmail.com*, majd nyomjon a *Beállítások lekérése*-re. Ha a szolgáltatója támogatja az [automatikus-felfedezést](https://tools.ietf.org/html/rfc6186), a FairEmail automatikusan kitölti a hoszt és port számokat, máskülönben kérdezze le a saját szolgáltatójától a megfelelő IMAP hoszt nevet, port számokat és titkosítási protokollt (SSL/TLS vagy STARTTLS). Erről több információért nézze meg [ezt](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Ha az Ön szolgáltatója nincs a listán, válassza az *Egyéni* részt (több ezer szolgáltatót támogat az app). Írja be a tartomány nevet, például *gmail.com*, majd nyomjon a *Beállítások lekérése*-re. Ha a szolgáltatója támogatja az [automatikus-felfedezést](https://tools.ietf.org/html/rfc6186), a FairEmail automatikusan kitölti a hoszt és port számokat, máskülönben kérdezze le a saját szolgáltatójától a megfelelő IMAP hoszt nevet, port számokat és titkosítási protokollt (SSL/TLS vagy STARTTLS). Erről több információért nézze meg [ezt](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Identitás beállítása - email küldéshez
 
@@ -26,7 +26,7 @@ Hasonlóan az azonosító hozzáadásához, nyomjon a *Kézi beállítás és to
 
 Ha a fiók kézzel lett beállítva, valószínűleg az identitást is így kell majd. Írja be a tartomány nevet, például *gmail.com*, majd koppintson a *Beállítások lekérése*-re. Ha a szolgáltatója támogatja az [automatikus-felfedezést](https://tools.ietf.org/html/rfc6186), a FairEmail automatikusan kitölti a hoszt és port számokat, máskülönben kérdezze le a saját szolgáltatójától a megfelelő IMAP hoszt nevet, port számokat és titkosítási protokollt (SSL/TLS vagy STARTTLS).
 
-Az aliasok használatáról lásd [ezt a GYIK-et](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9).
+Az aliasok használatáról lásd [ezt a GYIK-et](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9).
 
 ## Engedély megadása - a kapcsolat információk eléréséhez
 
@@ -38,4 +38,4 @@ Ha látni akarja névjegyei címét, fotóit, stb., akkor engedélyeznie kell a 
 
 ## Kérdések és problémák
 
-Ha kérdése vagy problémája van, [ezen az oldalon](https://github.com/M66B/FairEmail/blob/master/FAQ.md) talál segítséget.
+Ha kérdése vagy problémája van, [ezen az oldalon](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) talál segítséget.

@@ -18,7 +18,7 @@ As it ynstellen net fansels slagget, moatte jo jo account en identiteit hânmjit
 
 Om in account ta te foegjen, tik op *Sels ynstelle en accountopsjes*, op *Accounts* en derny op de ‘plus’ ûnderoan en selektearje IMAP (of POP3). Selektearje in provider út de list, fier de brûkersnamme yn, lykwols jo e-mailadres, en fier jo wachtwurd yn. Tik op *Kontrolearje* om FairEmail in ferbining meitsje te litten mei de e-mailserver en in list mei systeemmappen op te heljen. Nei it kontrolearjen fan de seleksje fan systeemmappen kinne jo de account tafoegje troch op *Bewarje * te tikken.
 
-As dy e-mailprovider net yn de list stiet, der binne tûzenen, kies dan *Oanpast*. Fier de domeinnamme yn, bygelyks *gmail.com* en tik op *Ynstellingen ophelje*. As jo provider [auto-discovery](https://tools.ietf.org/html/rfc6186) stipet, sil FairEmail de hostnamme en it poartenûmer ynfolje, oars kontrolearje de ynstallaasje-ynstruksjes fan jo provider foar de krekte IMAP-hostnamme, poartenûmer en protokol (SSL/TLS of STARTTLS). Sjoch [hjir](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts) foar mear ynformaasje,.
+As dy e-mailprovider net yn de list stiet, der binne tûzenen, kies dan *Oanpast*. Fier de domeinnamme yn, bygelyks *gmail.com* en tik op *Ynstellingen ophelje*. As jo provider [auto-discovery](https://tools.ietf.org/html/rfc6186) stipet, sil FairEmail de hostnamme en it poartenûmer ynfolje, oars kontrolearje de ynstallaasje-ynstruksjes fan jo provider foar de krekte IMAP-hostnamme, poartenûmer en protokol (SSL/TLS of STARTTLS). Sjoch [hjir](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts) foar mear ynformaasje,.
 
 ## Identiteit ynstelle – om e-mailberjochten te ferstjoeren
 
@@ -26,7 +26,7 @@ Likegoed om in identiteit ta te foegjen, tik op *Sels ynstelle en accountopsjes*
 
 As de acount hânmjittich ynstelle waard, dan moatte jo wierskynlik jo identiteit ek mei de hân ynstelle moatte. Fier de domeinnamme yn, bygelyks *gmail.com* en tikje op *Krij ynstellingen*. As jo ynternetprovider [auto-discovery](https://tools.ietf.org/html/rfc6186) stipet, sil FairEmail de hostnamme en poartenûmer ynfolje, kontrolearje oars de ynstallaasje-ynstruksjes fan jo ynternetprovider foar de krekte IMAP-hostnamme, poartenûmer en protokol (SSL/TLS of STARTTLS).
 
-Sjoch [dizze FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) oer it brûken fan aliassen.
+Sjoch [dizze FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) oer it brûken fan aliassen.
 
 ## Tastimmingen jaan - om tagong te krijen ta kontaktynformaasje
 
@@ -38,4 +38,4 @@ Resinte Android-ferzjes sette apps yn sliep as it skerm in skoft út is om batte
 
 ## Fragen of problemen
 
-Asto in fraach of probleem hast, [sjoch hjir](https://github.com/M66B/FairEmail/blob/master/FAQ.md) foar help.
+Asto in fraach of probleem hast, [sjoch hjir](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) foar help.

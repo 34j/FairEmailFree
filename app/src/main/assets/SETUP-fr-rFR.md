@@ -18,7 +18,7 @@ Si la configuration rapide ne fonctionne pas, vous devrez configurer un compte e
 
 Pour ajouter un compte, appuyez sur *Configuration manuelle et plus d'options*, appuyez sur *Comptes*, appuyez sur le bouton « Plus » en bas et sélectionnez IMAP (ou POP3). Sélectionnez un fournisseur dans la liste, entrez le nom d’utilisateur qui est en général votre adresse e-mail et saisissez votre mot de passe. Appuyez sur *Vérifier* pour permettre à FairEmail de se connecter au serveur de messagerie et de récupérer la liste des dossiers système. Après avoir vérifié les dossiers système sélectionnés, vous pouvez ajouter le compte en appuyant sur *Enregistrer*.
 
-Si votre fournisseur n'est pas dans la liste des fournisseurs (il y a des milliers de fournisseurs), sélectionnez *Personnalisé*. Entrez le nom de domaine, par exemple *gmail.com* et appuyez sur *Obtenir les paramètres*. Si votre fournisseur gère l'[auto-découverte](https://tools.ietf.org/html/rfc6186), FairEmail remplira le nom d'hôte et le numéro de port, sinon recherchez le nom d'hôte IMAP, le numéro de port et le protocole de chiffrement (SSL/TLS ou STARTTLS) dans les instructions de configuration de votre fournisseur. Pour plus d'informations, veuillez voir [ici](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Si votre fournisseur n'est pas dans la liste des fournisseurs (il y a des milliers de fournisseurs), sélectionnez *Personnalisé*. Entrez le nom de domaine, par exemple *gmail.com* et appuyez sur *Obtenir les paramètres*. Si votre fournisseur gère l'[auto-découverte](https://tools.ietf.org/html/rfc6186), FairEmail remplira le nom d'hôte et le numéro de port, sinon recherchez le nom d'hôte IMAP, le numéro de port et le protocole de chiffrement (SSL/TLS ou STARTTLS) dans les instructions de configuration de votre fournisseur. Pour plus d'informations, veuillez voir [ici](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Configurer une identité - pour envoyer des e-mails
 
@@ -26,7 +26,7 @@ De même, pour ajouter une identité, appuyez sur *Configuration manuelle et plu
 
 Si le compte a été configuré manuellement, vous devrez probablement également configurer l’identité manuellement. Entrez le nom de domaine, par exemple *gmail.com* et appuyez sur *Obtenir les paramètres*. Si votre fournisseur gère l'[auto-découverte](https://tools.ietf.org/html/rfc6186), FairEmail remplira le nom d'hôte et le numéro de port, sinon recherchez le nom d'hôte SMTP, le numéro de port et le protocole de chiffrement (SSL/TLS ou STARTTLS) dans les instructions de configuration de votre fournisseur.
 
-Voir [cette FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) sur l'utilisation des alias.
+Voir [cette FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) sur l'utilisation des alias.
 
 ## Accorder les autorisations - pour accéder aux informations des contacts
 
@@ -38,4 +38,4 @@ Dans ses versions récentes, Android mettra en veille les applications lorsque l
 
 ## Questions ou problèmes
 
-Si vous avez une question ou un problème, veuillez [voir ici](https://github.com/M66B/FairEmail/blob/master/FAQ.md) pour obtenir de l'aide.
+Si vous avez une question ou un problème, veuillez [voir ici](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) pour obtenir de l'aide.

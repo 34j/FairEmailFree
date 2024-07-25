@@ -30,7 +30,7 @@ If your provider is not in the list of providers, there are thousands of provide
 Enter the domain name, for example *gmail.com* and tap *Get settings*.
 If your provider supports [auto-discovery](https://tools.ietf.org/html/rfc6186), FairEmail will fill in the host name and port number,
 else check the setup instructions of your provider for the right IMAP host name, port number and encryption protocol (SSL/TLS or STARTTLS).
-For more about this, please see [here](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+For more about this, please see [here](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 
 ## Set up identity - to send email
@@ -44,7 +44,7 @@ Enter the domain name, for example *gmail.com* and tap *Get settings*.
 If your provider supports [auto-discovery](https://tools.ietf.org/html/rfc6186), FairEmail will fill in the host name and port number,
 else check the setup instructions of your provider for the right SMTP host name, port number and encryption protocol (SSL/TLS or STARTTLS).
 
-See [this FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) about using aliases.
+See [this FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) about using aliases.
 
 
 ## Grant permissions - to access contact information
@@ -62,4 +62,4 @@ Tap *Manage* and follow the instructions.
 
 ## Questions or problems
 
-If you have a question or problem, please [see here](https://github.com/M66B/FairEmail/blob/master/FAQ.md) for help.
+If you have a question or problem, please [see here](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) for help.

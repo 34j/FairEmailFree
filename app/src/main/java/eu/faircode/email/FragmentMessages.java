@@ -5706,7 +5706,7 @@ public class FragmentMessages extends FragmentBase
             @Override
             public void onClick(View v) {
                 prefs.edit().putBoolean("redmi_note", false).apply();
-                Helper.view(v.getContext(), Uri.parse("https://github.com/M66B/FairEmail/blob/master/FAQ.md#redmi"), false);
+                Helper.view(v.getContext(), Uri.parse("https://github.com/34j/FairEmailFree/blob/master/FAQ.md#redmi"), false);
             }
         });
         snackbar.show();

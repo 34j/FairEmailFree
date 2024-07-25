@@ -18,7 +18,7 @@
 
 要添加一个账户，点击*手动设置和更多选项*，点击*账户*，再点击底部的'加号'按钮并选择 IMAP (或 POP3)。 从列表中选择一个供应商，输入用户名——这大多为您的电子邮件地址，并输入您的密码。 点击 *检查* 让 FairEmail 连接到电子邮件服务器，并获取系统文件夹列表。 在检查过要选择的系统文件夹后，您可以点击 *保存* 来添加账户。
 
-如果您的邮件服务提供商不在这数千家的列表中，选择*自定义*。 输入域名，例如 *gmail.com*，并点击*获取设置*。 如果你的供应商支持 [自动发现](https://tools.ietf.org/html/rfc6186)，FairEmail 将填写主机名和端口号，否则，请您查看供应商的设置说明来获知正确的 IMAP 主机名、端口号和加密协议 (SSL/TLS 或 STARTTLS)。 关于这一问题的更多内容，请见[此处](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts)。
+如果您的邮件服务提供商不在这数千家的列表中，选择*自定义*。 输入域名，例如 *gmail.com*，并点击*获取设置*。 如果你的供应商支持 [自动发现](https://tools.ietf.org/html/rfc6186)，FairEmail 将填写主机名和端口号，否则，请您查看供应商的设置说明来获知正确的 IMAP 主机名、端口号和加密协议 (SSL/TLS 或 STARTTLS)。 关于这一问题的更多内容，请见[此处](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts)。
 
 ## 设置身份 - 用于发送电子邮件
 
@@ -26,7 +26,7 @@
 
 如果手动配置了帐户，您也可能需要手动配置身份。 输入域名，例如 *gmail.com*并点击*获取设置*。 如果你的供应商支持 [自动发现](https://tools.ietf.org/html/rfc6186)，FairEmail 将填写主机名和端口号，否则，请您查看供应商的设置说明来获知正确的 IMAP 主机名、端口号和加密协议 (SSL/TLS 或 STARTTLS)。
 
-有关使用别名，参阅[这篇 FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) 
+有关使用别名，参阅[这篇 FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) 
 
 ## 授予权限 - 访问联系人信息
 
@@ -38,4 +38,4 @@
 
 ## 疑问或问题
 
-如果您有问题，请[查看此处](https://github.com/M66B/FairEmail/blob/master/FAQ.md)寻求帮助。
+如果您有问题，请[查看此处](https://github.com/34j/FairEmailFree/blob/master/FAQ.md)寻求帮助。

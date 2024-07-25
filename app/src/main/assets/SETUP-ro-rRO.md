@@ -18,7 +18,7 @@ Dacă configurarea rapidă nu funcționează, va trebui să configurați manual 
 
 Pentru a adăuga un cont, atingeți *Configurare manuală și mai multe opțiuni*, apăsați *Conturi* și apăsați butonul "plus" din partea de jos și selectați IMAP (sau POP3). Selectați un furnizor din listă, introduceți numele de utilizator, care este în general adresa dvs. de e-mail și introduceți parola. Apăsați *Check* pentru a permite FairEmail să se conecteze la serverul de e-mail și să extragă o listă de dosare de sistem. După ce ați revizuit selecția dosarului de sistem, puteți adăuga contul atingând *Salvare*.
 
-Dacă furnizorul dvs. nu se află în lista de furnizori, există mii de furnizori, selectați *Custom*. Introduceți numele domeniului, de exemplu *gmail.com* și apăsați *Obține setările*. Dacă furnizorul dvs. suportă [auto-discovery](https://tools.ietf.org/html/rfc6186), FairEmail va completa numele gazdei și numărul de port, în caz contrar, verificați instrucțiunile de configurare ale furnizorului dumneavoastră pentru a afla numele de gazdă IMAP, numărul de port și protocolul de criptare (SSL/TLS sau STARTTLS). Pentru mai multe informații în acest sens, vă rugăm să consultați [ aici](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Dacă furnizorul dvs. nu se află în lista de furnizori, există mii de furnizori, selectați *Custom*. Introduceți numele domeniului, de exemplu *gmail.com* și apăsați *Obține setările*. Dacă furnizorul dvs. suportă [auto-discovery](https://tools.ietf.org/html/rfc6186), FairEmail va completa numele gazdei și numărul de port, în caz contrar, verificați instrucțiunile de configurare ale furnizorului dumneavoastră pentru a afla numele de gazdă IMAP, numărul de port și protocolul de criptare (SSL/TLS sau STARTTLS). Pentru mai multe informații în acest sens, vă rugăm să consultați [ aici](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Configurați identitatea - pentru a trimite e-mailuri
 
@@ -26,7 +26,7 @@ Dacă furnizorul dvs. nu se află în lista de furnizori, există mii de furnizo
 
 În cazul în care contul a fost configurat manual, probabil că trebuie să configurați și identitatea manual. Introduceți numele domeniului, de exemplu *gmail.com* și apăsați *Obține setările*. Dacă furnizorul dvs. suportă [auto-discovery](https://tools.ietf.org/html/rfc6186), FairEmail va completa numele gazdei și numărul de port, în caz contrar, verificați instrucțiunile de configurare ale furnizorului dvs. pentru numele de gazdă SMTP, numărul de port și protocolul de criptare (SSL/TLS sau STARTTLS).
 
-Vedeți [acest FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) despre utilizarea aliasurilor.
+Vedeți [acest FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) despre utilizarea aliasurilor.
 
 ## Oferirea de permisiuni - pentru a accesa informațiile de contact
 
@@ -38,4 +38,4 @@ Pe versiunile recente de Android, Android va pune aplicațiile în stare de repa
 
 ## Întrebări sau probleme
 
-Dacă aveți o întrebare sau o problemă, vă rugăm să [vezi aici](https://github.com/M66B/FairEmail/blob/master/FAQ.md) pentru ajutor.
+Dacă aveți o întrebare sau o problemă, vă rugăm să [vezi aici](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) pentru ajutor.

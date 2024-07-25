@@ -18,7 +18,7 @@ Se a configuração rápida não funcionar, precisará de configurar a conta e a
 
 Para adicionar uma conta, toque em *Configuração manual e mais opções*, toque em *contas* e toque no botão 'mais' na parte inferior e selecione IMAP (ou POP3). Selecione um provedor da lista, escreva o seu nome de utilizador, que é praticamente o seu endereço de email e escreva a sua palavra-passe. Pressione *Check* para o FairMail o ligar ao servidor de email para ir buscar a lista de pastas do sistema. Depois de rever a seleção da pasta de sistema pode adicionar a conta e pressionar *Save*.
 
-Se o seu fornecedor não constar da lista de fornecedores (existem milhares de fornecedores), seleccione *Personalizado*. Escreva o nome do domínio, por exemple *gmail.com* e pressione *Get settings*. Se o seu provedor suportar [descoberta automática](https://tools.ietf.org/html/rfc6186), o FairEmail preencherá o nome do servidor e o número da porta, Caso contrário, verifique as instruções de configuração do seu provedor para o nome correcto do servidor, número da porta e protocolo de criptografia (SSL/TLS ou STARTTLS). Para mais informações sobre isto, por favor [here](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts).
+Se o seu fornecedor não constar da lista de fornecedores (existem milhares de fornecedores), seleccione *Personalizado*. Escreva o nome do domínio, por exemple *gmail.com* e pressione *Get settings*. Se o seu provedor suportar [descoberta automática](https://tools.ietf.org/html/rfc6186), o FairEmail preencherá o nome do servidor e o número da porta, Caso contrário, verifique as instruções de configuração do seu provedor para o nome correcto do servidor, número da porta e protocolo de criptografia (SSL/TLS ou STARTTLS). Para mais informações sobre isto, por favor [here](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts).
 
 ## Configurar identidade - para receber email
 
@@ -26,7 +26,7 @@ Da mesma forma, para adicionar uma identidade, toque em *configuração manual e
 
 Se a conta foi configurada manualmente, provavelmente precisará de configurar a identidade manualmente também. Escreva o nome do domínio, por exemplo *gmail.com* e pressione *Get settings*. Se o seu provedor suportar [descoberta automática](https://tools.ietf.org/html/rfc6186), o FairEmail preencherá o nome do host e o número da porta, Caso contrário, verifique as instruções de configuração do seu provedor para o nome de host SMTP correto, número da porta e protocolo de criptografia (SSL/TLS ou STARTTLS).
 
-Veja [este FAQ](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9) sobre usar aliases.
+Veja [este FAQ](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9) sobre usar aliases.
 
 ## Conceder permissões - para aceder a informação de contacto
 
@@ -38,4 +38,4 @@ Nas versões mais recentes do Android, o Android põe as aplicações em modo de
 
 ## Perguntas ou problemas
 
-Se tiver uma pergunta ou um problema, por favor [see here](https://github.com/M66B/FairEmail/blob/master/FAQ.md) para ajuda.
+Se tiver uma pergunta ou um problema, por favor [see here](https://github.com/34j/FairEmailFree/blob/master/FAQ.md) para ajuda.

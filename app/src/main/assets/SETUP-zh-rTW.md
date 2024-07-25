@@ -18,7 +18,7 @@
 
 欲新增帳戶，請輕觸 *手動設置及帳戶選項*，然後輕觸 *帳戶*，最後輕觸底部的‘加號’按鈕並選擇 IMAP (或 POP3)。 接下來，請從清單中選取一個郵件供應商（可選擇“自訂”），然後輸入使用者名稱（通常是您的電子郵件地址）以及密碼。 完成後請輕觸 *檢查*，以便 FairEmail 連線至電子郵件伺服器並從中提取系統資料夾清單。 在檢視選定的系統資料夾後，您可透過輕觸 *保存* 來完成帳戶新增 。
 
-清單中已列出多家郵件供應商，若您使用的供應商未在其中，請選擇 *自訂*。 接下來請輸入網域名稱 -- 例如 *gmail.com*，然後輕觸 *取得設定*。 如果您的郵件供應商支援 [自動發現](https://tools.ietf.org/html/rfc6186)，那麼 FairEmail 將會自動為您填入主機名稱和埠號； 不然，請檢查供應商的設置指南，以便填入正確的 IMAP 主機名稱、埠號和加密協定 (SSL/TLS 或 STARTTLS)。 詳情請參閱 [這篇文章](https://github.com/M66B/FairEmail/blob/master/FAQ.md#authorizing-accounts)
+清單中已列出多家郵件供應商，若您使用的供應商未在其中，請選擇 *自訂*。 接下來請輸入網域名稱 -- 例如 *gmail.com*，然後輕觸 *取得設定*。 如果您的郵件供應商支援 [自動發現](https://tools.ietf.org/html/rfc6186)，那麼 FairEmail 將會自動為您填入主機名稱和埠號； 不然，請檢查供應商的設置指南，以便填入正確的 IMAP 主機名稱、埠號和加密協定 (SSL/TLS 或 STARTTLS)。 詳情請參閱 [這篇文章](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#authorizing-accounts)
 
 ## 設置身分 -- 傳送電子郵件
 
@@ -26,7 +26,7 @@
 
 如果帳戶系手動配置加入，那麼您可能也需要去手動配置身分。 首先請輸入網域名稱，例如 *gmail.com*，然後輕觸 *取得設定*。 如果您的郵件供應商支援 [自動發現](https://tools.ietf.org/html/rfc6186)，那麼 FairEmail 將會自動為您填入主機名稱和埠號； 不然，請檢查供應商的設置指南，以便填入正確的 SMTP 主機名稱、埠號和加密協定 (SSL/TLS 或 STARTTLS)。
 
-有關別名的使用，請參閱 [常見問題](https://github.com/M66B/FairEmail/blob/master/FAQ.md#FAQ9)。
+有關別名的使用，請參閱 [常見問題](https://github.com/34j/FairEmailFree/blob/master/FAQ.md#FAQ9)。
 
 ## 授予權限 -- 存取聯絡人資料
 
@@ -38,4 +38,4 @@
 
 ## 疑問或問題
 
-如果您有任何問題需要幫助，請[參閱這篇文章](https://github.com/M66B/FairEmail/blob/master/FAQ.md)。
+如果您有任何問題需要幫助，請[參閱這篇文章](https://github.com/34j/FairEmailFree/blob/master/FAQ.md)。
